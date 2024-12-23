@@ -73,7 +73,7 @@ Unnamed: 0,file_path,transcript,image_path,predicted_transcript
 71,data/mathwriting-2024/test/b7ee9c5dea9930c2.bin,(1+4)^{2}=5^{2}=25,data/mathwriting-2024/test_img/b7ee9c5dea9930c2.png,(1+4)^{2}=5^{2}-25
 72,data/mathwriting-2024/test/2a1742ac0475c624.bin,Spec_{X}(Sym(L^{*})),data/mathwriting-2024/test_img/2a1742ac0475c624.png,spec_{X}(s_{ym(L^{*})
 73,data/mathwriting-2024/test/45c544cfb2fbc21f.bin,\Theta_{div}\simeq2\frac{w_{0}}{z_{R}},data/mathwriting-2024/test_img/45c544cfb2fbc21f.png,\Theta_{div}\cong2\frac{\omega_{0}{Z_{R}
-74,data/mathwriting-2024/test/d3fda9003b3fd1c0.bin,\sum_{i=1}^{n}W_{i}\times F_{i}=,data/mathwriting-2024/test_img/d3fda9003b3fd1c0.png,\sum_{i=1}^{n}W_{i}\times F_{i}
+74,data/mathwriting-2024/test/d3fda9003b3fd1c0.bin,\sum_{i=1}^{n}W_{i}\times F_{i},data/mathwriting-2024/test_img/d3fda9003b3fd1c0.png,\sum_{i=1}^{n}W_{i}\times F_{i}
 75,data/mathwriting-2024/test/ba59f5c579509d55.bin,"(s,t)\mapsto f_{1}(s)f_{2}(t)",data/mathwriting-2024/test_img/ba59f5c579509d55.png,"(S,t)o f,(s)(f_{2}(t)"
 76,data/mathwriting-2024/test/7586a88d0d497464.bin,F_{x}v=m\dot{v}v,data/mathwriting-2024/test_img/7586a88d0d497464.png,F_{X}v=m\dot{v}v}
 77,data/mathwriting-2024/test/fa58f6ed528daeea.bin,\hat{g}=\frac{k}{T^{2}},data/mathwriting-2024/test_img/fa58f6ed528daeea.png,\hat{g}=\frac{K}{T^{2}
