@@ -1,0 +1,811 @@
+transcript,file_path,predicted_transcript,cer
+x,data/mathwriting-2024/train/4a827dce50995753.bin,X,1.0
+v,data/mathwriting-2024/train/be7f12d7590518ab.bin,V,1.0
+J,data/mathwriting-2024/train/007a2bd20dd09f18.bin,\mathbb{J},1.0
+v,data/mathwriting-2024/train/26bbd106eb627c11.bin,V,1.0
+p,data/mathwriting-2024/train/19a496292dc1786f.bin,D,1.0
+\vee,data/mathwriting-2024/train/df1a69e9fdd3d4f4.bin,V,1.0
+c,data/mathwriting-2024/train/c084d3f9e38e4038.bin,C,1.0
+z,data/mathwriting-2024/train/783a586edbb79959.bin,Z,1.0
+w,data/mathwriting-2024/train/37bf051a510311ca.bin,W,1.0
+c,data/mathwriting-2024/train/46ade1d3486f555b.bin,C,1.0
+c,data/mathwriting-2024/train/d2f9cf02a06bacb7.bin,C,1.0
+x,data/mathwriting-2024/train/88e96b74330175bf.bin,\phi,1.0
+K,data/mathwriting-2024/train/6c16469fb5a09822.bin,k,1.0
+w,data/mathwriting-2024/train/3488e0f235160dae.bin,\omega,1.0
+c,data/mathwriting-2024/train/4e7373f8924b6d69.bin,C,1.0
+X,data/mathwriting-2024/train/cf2f5a2520c65e73.bin,\mathbb{X},1.0
+w,data/mathwriting-2024/train/c44efe5cd5186a00.bin,W,1.0
+u,data/mathwriting-2024/train/51fbd0040b82e1f7.bin,U,1.0
+K,data/mathwriting-2024/train/bd39c1aa18eea8c4.bin,\mathbb{K},1.0
+n,data/mathwriting-2024/train/b2624aa0425a3b7b.bin,m,1.0
+\vee,data/mathwriting-2024/train/3c229b1e2a05bc43.bin,V,1.0
+X,data/mathwriting-2024/train/40aee7e77e470473.bin,\mathbb{X},1.0
+r,data/mathwriting-2024/train/c85d01e1a9eaa93a.bin,h,1.0
+K,data/mathwriting-2024/train/83da1e85da8ff9a7.bin,\mathbb{K},1.0
+x,data/mathwriting-2024/train/843fddb61eaf5c71.bin,\chi,1.0
+c,data/mathwriting-2024/train/10da60026c1ce253.bin,C,1.0
+\vee,data/mathwriting-2024/train/1fe17ccd8b6bbbd4.bin,V,1.0
+w,data/mathwriting-2024/train/651f2ce42c72499e.bin,W,1.0
+x,data/mathwriting-2024/train/10b9cf44a4222b1b.bin,\chi,1.0
+O,data/mathwriting-2024/train/e8a58e77028766a4.bin,0,1.0
+L,data/mathwriting-2024/train/931798a8f195f2e1.bin,\mathbb{L},1.0
+\nu,data/mathwriting-2024/train/b1bf52e0c9189883.bin,V,1.0
+\varphi,data/mathwriting-2024/train/4fe0b277de4c9bf2.bin,Q,1.0
+\mathbb{D},data/mathwriting-2024/train/2c224f28677a4533.bin,D,1.0
+v,data/mathwriting-2024/train/d4ec530bb9ac2a32.bin,U,1.0
+x,data/mathwriting-2024/train/822e319f31f67315.bin,X,1.0
+\vee,data/mathwriting-2024/train/47f1ab9be35f0578.bin,U,1.0
+K,data/mathwriting-2024/train/adc42802a55afbcb.bin,k,1.0
+s,data/mathwriting-2024/train/613d441349333673.bin,S,1.0
+S,data/mathwriting-2024/train/a66dd459ab241639.bin,\int,1.0
+\vee,data/mathwriting-2024/train/94e2c9f817690cbc.bin,V,1.0
+K,data/mathwriting-2024/train/03b4c0bc501b9041.bin,k,1.0
+\mathbb{O},data/mathwriting-2024/train/272dad5a0a33bb62.bin,\mathbb{O}),1.0
+s,data/mathwriting-2024/train/2d10be0ebbf0ddcd.bin,S,1.0
+v,data/mathwriting-2024/train/7678a2f337aaffb9.bin,V,1.0
+z,data/mathwriting-2024/train/4de7b582ee968c18.bin,Z,1.0
+p,data/mathwriting-2024/train/5afbdfe72a2c7d9e.bin,P,1.0
+v,data/mathwriting-2024/train/3693cebd05330ef2.bin,V,1.0
+s,data/mathwriting-2024/train/c6e3dada783d03c7.bin,S,1.0
+s,data/mathwriting-2024/train/87827b0044f18206.bin,S,1.0
+s,data/mathwriting-2024/train/a17882bc59020701.bin,S,1.0
+\nu,data/mathwriting-2024/train/071a6616058a4793.bin,V,1.0
+z,data/mathwriting-2024/train/370c591f198f7d57.bin,Z,1.0
+p,data/mathwriting-2024/train/3c82de7abd7db577.bin,0,1.0
+z,data/mathwriting-2024/train/69b84451695e2656.bin,Z,1.0
+I,data/mathwriting-2024/train/7a96bff2dd40215c.bin,\overlineI,1.0
+5,data/mathwriting-2024/train/f43a29c8ebc075f8.bin,S,1.0
+\hat{L},data/mathwriting-2024/train/c2e921714ec21897.bin,1,1.0
+0,data/mathwriting-2024/train/dbf5258f505e0afa.bin,0O,1.0
+X,data/mathwriting-2024/train/3a1f6e51c7f4dbb9.bin,\lambda,1.0
+O,data/mathwriting-2024/train/3eceb6fcbc46d388.bin,0,1.0
+w,data/mathwriting-2024/train/4dc7c0dba5470cb9.bin,W,1.0
+b,data/mathwriting-2024/train/dddf50a7cf2f7c6f.bin,6,1.0
+u,data/mathwriting-2024/train/53cd2afe4a675670.bin,U,1.0
+\overline{I},data/mathwriting-2024/train/b9a61bd0c1193ba7.bin,\overlineI,1.0
+u,data/mathwriting-2024/train/6cb119b2408d396d.bin,U,1.0
+\mathbb{C},data/mathwriting-2024/train/bd887f751e006d25.bin,C,1.0
+z,data/mathwriting-2024/train/d1648e71ecbef870.bin,Z,1.0
+r_{ky}=\frac{\overline{ky}}{\sqrt{\overline{k^{3}}\overline{y^{3}}}},data/mathwriting-2024/train/daafbfc5c5ba3b9a.bin,-},0.9722222222222222
+((455-155)+9+80+5),data/mathwriting-2024/train/32844ef0357cee0c.bin,394,0.9444444444444444
+H=(\begin{matrix}1011100\\ 1110010\\ 0111001\end{matrix}),data/mathwriting-2024/train/f34548737c5b2117.bin,H{1}_{},0.9354838709677419
+P=\{P_{\theta}:\theta\in\Theta\},data/mathwriting-2024/train/90e92f311c676e43.bin,P,0.9230769230769231
+-p+2\mu\frac{\partial u_{i}}{\partial x_{i}},data/mathwriting-2024/train/1c249abb11815657.bin,\overline{p},0.9166666666666666
+I\frac{4}{m}\frac{2}{c}\frac{2}{m},data/mathwriting-2024/train/32b5539c80563f31.bin,\int^{1},0.9090909090909091
+f^{i^{c^{\cdot^{\cdot^{\cdot}}}}},data/mathwriting-2024/train/06441c3391eb38a6.bin,\sqrt{},0.9047619047619048
+\phi(x)=\frac{e^{+\frac{x^{8}}{8}}}{\sqrt{8\beta}},data/mathwriting-2024/train/f8c0a226a43d2d13.bin,\phi(y),0.9032258064516129
+n!!=\frac{(n+2)!!}{n+2},data/mathwriting-2024/train/a6653a8d01d798b6.bin,n!,0.8947368421052632
+\vartheta_{i}\equiv\frac{1}{\sqrt{1-\frac{u_{i}+u_{i}}{c^{2}}}},data/mathwriting-2024/train/4447af543e8cd86f.bin,v_{i},0.8947368421052632
+I=\frac{R_{t}}{R_{o}}=S_{w}^{-n},data/mathwriting-2024/train/be13d304417d9a93.bin,1}{=,0.8928571428571429
+\upsilon_{c}=\frac{8}{\sqrt{L_{\frac{8}{0}}C_{\frac{8}{0}}}},data/mathwriting-2024/train/8adf082778562a9a.bin,V_{c},0.8918918918918919
+\theta(t)e^{-\gamma t}\frac{sin(\omega t)}{\omega},data/mathwriting-2024/train/33f1fc3aa4126a76.bin,\theta\frac{\theta\fract,0.8846153846153846
+z=\frac{h}{\sqrt[8]{\cdot\frac{u_{1}}{5}}},data/mathwriting-2024/train/b033dad24dead5fb.bin,2}{},0.8846153846153846
+\frac{9}{4}-218+1^{7},data/mathwriting-2024/train/9dc9d709d3320d1d.bin,{123,0.8823529411764706
+(5+248)^{\frac{184}{39}/\sqrt{9}},data/mathwriting-2024/train/6c4addad507a22b8.bin,59{27,0.88
+-\frac{a}{b},data/mathwriting-2024/train/18db6142b4b90da2.bin,-,0.875
+\frac{\partial M}{\partial x}=\frac{\partial N}{\partial y},data/mathwriting-2024/train/223c02edd6aa7468.bin,\frac{\partialM},0.8695652173913043
+MPK=\frac{\partial F}{\partial K},data/mathwriting-2024/train/475574e42f533238.bin,_{H1},0.8666666666666667
+\frac{\Sigma u}{b}=\frac{R^{\frac{2u_{q}}{b}}-1}{R^{\frac{2u_{q}}{b}}\cdot1},data/mathwriting-2024/train/143a9c9e437dd103.bin,\frac{\xiV}{u}=R,0.8627450980392157
+v=\frac{\overline{X}_{8}-\overline{X}_{2}}{\sqrt{\frac{h_{8}^{2}}{N_{8}}\cdot\frac{h_{2}^{2}}{N_{2}}}},data/mathwriting-2024/train/1b71327ebe608cba.bin,v{=^\overline{X}_{8},0.8484848484848485
+\delta=\frac{P}{P_{0}},data/mathwriting-2024/train/cd30f24cc5490238.bin,\delta=1,0.8461538461538461
+||||||||||...|||||,data/mathwriting-2024/train/a501cfb4e2a2fa6e.bin,|.|,0.8333333333333334
+z=\frac{\xi-\frac{1}{\xi}}{2i},data/mathwriting-2024/train/5cb9113d3b40bef5.bin,Z=\xi{,0.8333333333333334
+||||||||||...|||||,data/mathwriting-2024/train/53d4ef2a9050807c.bin,|.|,0.8333333333333334
+||||||||||...|||||,data/mathwriting-2024/train/fb0bc91d35651d3d.bin,|\cdot.|,0.8333333333333334
+\lambda=\sqrt{\frac{r\times\rho_{m}}{2\times\rho_{i}}},data/mathwriting-2024/train/f7cef1a8c8277921.bin,\lambda=\sqrt},0.8333333333333334
+\frac{\frac{2}{3}}{{8^{6}}^{6}},data/mathwriting-2024/train/62e143daf71fa116.bin,\frac1{6},0.8260869565217391
+||||||||||...||||,data/mathwriting-2024/train/692d22d38e87e0d4.bin,|.|,0.8235294117647058
+\frac{\sqrt{9}\cdot6}{(\frac{450}{16}+\sqrt{1})},data/mathwriting-2024/train/af752e9fa1aa9282.bin,4{5\sqrt{-1},0.8214285714285714
+r=\frac{p_{F}}{\tilde{p}_{P}}-1,data/mathwriting-2024/train/6675bd2852760a5f.bin,rp{=},0.8181818181818182
+\psi(k)=\frac{\Gamma^{\prime}(k)}{\Gamma(k)},data/mathwriting-2024/train/ca88c3d903d0a14a.bin,\psi(k},0.8181818181818182
+Si(x)=\int_{0}^{x}\frac{sint}{t}dt,data/mathwriting-2024/train/e63029c4054f657b.bin,S_{i}(x),0.8148148148148148
+"0\in\{\frac{M}{m},\frac{x}{r},v_{0},A\}",data/mathwriting-2024/train/a7bcf2779f0a6ab1.bin,"0\inv_{0,A2\}\{",0.8148148148148148
+t=\lfloor\frac{1}{2}(d-1)\rfloor,data/mathwriting-2024/train/d843bb275b0da470.bin,t=[},0.8125
+\frac{458}{496}/475^{245},data/mathwriting-2024/train/5b9e5cc4806ba6d7.bin,\overline{45},0.8095238095238095
+k_{4}^{\prime}=\frac{k_{4}-ra_{4}}{\sqrt{1-\frac{r^{4}}{c^{4}}}},data/mathwriting-2024/train/34cd103b818b979c.bin,k{4k{}^{\prime},0.8085106382978723
+(\frac{169}{9}\cdot10)^{362^{468}},data/mathwriting-2024/train/2440fbc379c139ee.bin,(\frac{62),0.8076923076923077
+\frac{\frac{131}{212}}{399^{6}-96},data/mathwriting-2024/train/83d9a56069eebcdc.bin,{13}^0,0.8076923076923077
+\frac{\xi a}{c}=\frac{P^{\frac{3a_{e}}{c}}-1}{P^{\frac{3a_{e}}{c}}\cdot1},data/mathwriting-2024/train/7415af5786ee2068.bin,\frac{\xi_{a}{c}=P,0.803921568627451
+1/\sqrt{\mu(\epsilon_{1}\pm g_{z})},data/mathwriting-2024/train/fb9005ad4473da4f.bin,\hat{}{},0.8
+nRTln\frac{P_{2}}{P_{1}},data/mathwriting-2024/train/08e2273e0d1afb81.bin,n_{RT},0.8
+[\begin{matrix}\sigma_{xx}&\sigma_{xy}&\sigma_{xz}\\ \sigma_{yx}&\sigma_{yy}&\sigma_{yz}\\ \sigma_{zx}&\sigma_{zy}&\sigma_{zz}\\ \end{matrix}],data/mathwriting-2024/train/2a80fef329b45f1b.bin,[\begin{matrix}\sigmay\\ \sigma\\ \sigma }yz^{z_\end{matrix}],0.8
+\frac{{5^{438}}^{164}}{\frac{\frac{386}{493}}{370}},data/mathwriting-2024/train/6ff4299b74f94d99.bin,\frac{\frac5{9}{},0.7948717948717948
+"\frac{\sqrt{\frac{(p_{1}u)^{p_{1}}p_{2}^{p_{2}}}{(p_{1}u+p_{2})^{p_{1}+p_{2}}}}}{uM(\frac{p_{1}}{2},\frac{p_{2}}{2})}",data/mathwriting-2024/train/1fe0fd0e1c98e2f9.bin,\frac{\sqrt{p_{1}w)^{k}{bp_{2}\cdot},0.7938144329896907
+A=\frac{\rho_{1}-\rho_{2}}{\rho_{1}+\rho_{2}},data/mathwriting-2024/train/aac115ae3b1dac6d.bin,A{}=^{\rho},0.7931034482758621
+\frac{(3-\sqrt{2})}{\frac{1^{6}}{7}},data/mathwriting-2024/train/da4c1d666889432d.bin,\frac{3-},0.7916666666666666
+(4+8+7\cdot{1^{100}}^{\sqrt{7}}),data/mathwriting-2024/train/9e79bafa85a7b17b.bin,(\frac{4+{}{,0.7916666666666666
+A=[\begin{matrix}4&1\\ 6&3\end{matrix}],data/mathwriting-2024/train/c844ddfde97e34d4.bin,1_{1\\ 1},0.7857142857142857
+\frac{d\Pi(\alpha)}{d\alpha}=0,data/mathwriting-2024/train/1c1178ec9a8e1245.bin,d{d\overline\Pi},0.7857142857142857
+\frac{V_{max}}{\frac{8}{8\cdot\frac{[U]}{[U]+Z_{i}}}},data/mathwriting-2024/train/72dbf94061cadff2.bin,\frac_{}{91{2{2},0.7837837837837838
+\tau_{*}=\frac{u_{*}^{2}}{(s-1)gd},data/mathwriting-2024/train/9026b1afc537e118.bin,\tilde_{t}{*},0.7777777777777778
+"(\forall x,y\in P(\kappa))",data/mathwriting-2024/train/39b096eda856bd26.bin,(\forall),0.7692307692307693
+\chi_{\alpha:g-1}^{2},data/mathwriting-2024/train/89aceea4e412d90d.bin,X{^{2}:g{-1},0.7692307692307693
+Y_{0}=\sqrt{\frac{G+j\omega C}{R+j\omega L}},data/mathwriting-2024/train/dcf5911f4e5e7dc9.bin,e=\sqrt{\mu(\frac{b}{a})^{2},0.7692307692307693
+|f|=\int|f(x)|dx,data/mathwriting-2024/train/886ad2318c85f206.bin,|f|,0.7692307692307693
+\underline{V}=\underline{I}\underline{Z},data/mathwriting-2024/train/0eedb161ec6b077b.bin,V=I2,0.7692307692307693
+R+r=\frac{a+b}{2},data/mathwriting-2024/train/32c2b777a217c8ff.bin,\overline{L{L},0.7692307692307693
+La=\frac{\sigma\rho L}{\mu^{2}},data/mathwriting-2024/train/4ddf4af56910dfc2.bin,L_{a}=\sigma\rho_{L},0.7647058823529411
+\frac{(\begin{matrix}K\\ k\end{matrix})(\begin{matrix}N-K\\ n-k\end{matrix})}{(\begin{matrix}N\\ n\end{matrix})},data/mathwriting-2024/train/4b0e179fd6ee5e87.bin,\frac{c_{k}^{k}\cdotC_{N-k}^{n-k}{C_{N}^{n},0.7575757575757576
+A=-\frac{k_{*}^{3}}{\delta\frac{j}{\overline{\theta_{z}}}\overline{w^{\prime}\theta_{z}^{\prime}}},data/mathwriting-2024/train/de6b738e16164bfc.bin,A=-\frac{k^{3}{\phi},0.7551020408163265
+\overline{C},data/mathwriting-2024/train/b48948ae8c442f6d.bin,C{,0.75
+t=\frac{|m|}{\sqrt{\frac{7-m^{0}}{n-0}}},data/mathwriting-2024/train/cf476819e425bdb3.bin,t{=\frac{|m|},0.75
+\tilde{\nu},data/mathwriting-2024/train/99c1d8f548c3a416.bin,{,0.75
+\frac{0.2394}{0.2730}=0.8769,data/mathwriting-2024/train/9324cde4d7ce3015.bin,0.2394,0.75
+\overline{H},data/mathwriting-2024/train/fb530ed0b924c5ea.bin,\overlineH},0.75
+\int_{0}^{\infty}\frac{n^{\cdot(\frac{(y+z)^{8}}{8w})}}{\sqrt{8\mu w}},data/mathwriting-2024/train/db6bfb9915f82521.bin,I_{0}^{\infty}n}lr},0.75
+\frac{7^{499}}{355}+\sqrt{300}/401-439,data/mathwriting-2024/train/b6a6bea5d8e91878.bin,{7^}^}^{4}{},0.7333333333333333
+\frac{\partial\rho}{\partial\sigma}=\frac{\partial^{2}V}{\partial\sigma\partial r},data/mathwriting-2024/train/c3bbd0ac96d27e84.bin,\frac{\partial}{}p},0.7307692307692307
+e^{-\lambda}\frac{\lambda^{k}}{k!}=e^{-5}\frac{5^{k}}{k!},data/mathwriting-2024/train/99380743605d9c24.bin,e^{-\lambda^{\lambda^{c},0.7297297297297297
+"\Pi,\Delta,\Phi,................",data/mathwriting-2024/train/43156eddb09973fa.bin,"\pi,\Delta,\Phi,.",0.7272727272727273
+\frac{|00\rangle+|11\rangle}{\sqrt{2}},data/mathwriting-2024/train/f45e873b5b27d9e4.bin,|0\rangle_{+|1\rangle,0.7222222222222222
+j=\frac{j_{9}}{\sqrt{3-\frac{v^{8}}{c^{8}}}},data/mathwriting-2024/train/754d983725e22e5e.bin,j{}{}{=^{j},0.71875
+\hat{k}=\frac{\sum\sum_{i<j}k_{ij}}{(\begin{matrix}n\\ 2\end{matrix})},data/mathwriting-2024/train/f5890ae39772e4d4.bin,\hat{k}=\sum{\Sigma{},0.71875
+L=n\frac{h}{2\pi}=n\hbar,data/mathwriting-2024/train/4822a6b67a2cf864.bin,L}=n},0.7142857142857143
+\frac{GMmd}{D^{3}},data/mathwriting-2024/train/70faf0eb6c803d5a.bin,G{G{}M,0.7142857142857143
+MAE=\frac{\sum_{t=1}^{N}|E_{t}|}{N},data/mathwriting-2024/train/772b286e0858c142.bin,MAE=\Sigma}{}1},0.7142857142857143
+|k\rangle=b_{k}^{\dagger}|0\rangle.,data/mathwriting-2024/train/2091413d4e4bd52a.bin,|k\rangle=b,0.7058823529411765
+v=\frac{q}{\sqrt{1-\frac{p-H}{2H_{m}}}},data/mathwriting-2024/train/7de94cd0924bc6d9.bin,\sqrt\frac{g}{\sqrt{1},0.7037037037037037
+[\begin{matrix}7y^{6}+1\\ 3x^{2}+2x\end{matrix}],data/mathwriting-2024/train/ad278cfcfc548ca8.bin,[\begin{matrix}^{7y}\end{matrix}],0.6956521739130435
+\sigma_{|K}=id_{K},data/mathwriting-2024/train/1ea1b6a79064a5f0.bin,\sigma/k=idk,0.6923076923076923
+L=\frac{j^{*}}{\pi}=\frac{\sigma}{\pi}T^{4},data/mathwriting-2024/train/be6c06c2c21ddac2.bin,L{=^{j}^{*},0.6923076923076923
+"B(p,q)=\frac{\Gamma(p)\Gamma(q)}{\Gamma(p+q)}",data/mathwriting-2024/train/fd01ff9dad01991c.bin,"B_{(p,q)_{=}",0.6923076923076923
+\int_{0}^{1}2x^{3}+3dx,data/mathwriting-2024/train/e880e8b446f6d724.bin,\int_{x}{d,0.6842105263157895
+"\Pi,\Delta,\Phi,................",data/mathwriting-2024/train/58efafaade410343.bin,"\Pi,\Delta,\Phi,.",0.6818181818181818
+"\{1,\frac{1}{2},\frac{1}{4},\frac{1}{8},...\}",data/mathwriting-2024/train/3f389e7e76d7cd8f.bin,"\{_{1,_{1{1,.\}1{4",0.6774193548387096
+\sqrt{\frac{11(t-4)}{2(20t-37)}}\approx7.4474,data/mathwriting-2024/train/fdb51751fc5a49c8.bin,\sqrt{\frac{\approx14740t-},0.6774193548387096
+G_{\infty}=\frac{v_{out}}{i_{in}}=-R_{f},data/mathwriting-2024/train/392fb8934c329453.bin,G_{\infty}=\frac{R},0.6774193548387096
+m.sin\theta,data/mathwriting-2024/train/bd76acd6be5c08da.bin,m\cdotsin\theta,0.6666666666666666
+Z_{\gamma}^{f},data/mathwriting-2024/train/4fbe8aec96dbf893.bin,{T_{\gamma},0.6666666666666666
+"I^{p,\bullet}=J\oplus K",data/mathwriting-2024/train/7079ad7091ecfc6a.bin,"I^{P},)",0.6666666666666666
+tr(\gamma^{\mu}\gamma^{\nu}\gamma^{\rho}\gamma^{\sigma}),data/mathwriting-2024/train/7041fb7f512f74de.bin,tr(\gamma^{\sigma),0.6666666666666666
+<<<,data/mathwriting-2024/train/001edc715205b281.bin,<,0.6666666666666666
+<<<,data/mathwriting-2024/train/271f835ef9a90f42.bin,<,0.6666666666666666
+\overline{f}=f,data/mathwriting-2024/train/6691624c523a80cb.bin,\overlinef=f,0.6666666666666666
+(\begin{matrix}e&0\\ 0&e\end{matrix}),data/mathwriting-2024/train/c40c7affa9c1c8af.bin,\overline\begin{matrix}&0\end{matrix},0.6666666666666666
+\mathbb{(B)},data/mathwriting-2024/train/5405e28125642b38.bin,(\mathbb{R}),0.6666666666666666
+\frac{\Delta k}{t}=\frac{R^{\frac{4k_{e}}{t}}\cdot1}{R^{\frac{4k_{e}}{t}}+1},data/mathwriting-2024/train/db68a72595c5179f.bin,\frac{\Delta K}{t}=R^{4K_{e},0.6666666666666666
+<<<,data/mathwriting-2024/train/7128895190652be5.bin,<,0.6666666666666666
+\overline{Y}=X,data/mathwriting-2024/train/89200e16d22e8321.bin,\overlineY=X,0.6666666666666666
+UG=[I_{k}|P],data/mathwriting-2024/train/72cf81ce6dbcae0a.bin,UG=I,0.6666666666666666
+E=\frac{ti^{4}}{\sqrt{6-\frac{v^{4}}{i^{4}}}},data/mathwriting-2024/train/8b18e23cc5f3bf7d.bin,E=\frac{t_{i}^{4},0.6666666666666666
+"E_{n_{x},n_{y}}=\frac{\hbar^{2}k_{n_{x}n_{y}}^{2}}{2m}",data/mathwriting-2024/train/399a48209bfd92ed.bin,E\frac{\hbar^{2}kxy}^{2}n_}_{},0.6521739130434783
+F_{f}=(\begin{matrix}s\\ 1\end{matrix}),data/mathwriting-2024/train/b07db62d90c8e844.bin,F_{f},0.6428571428571429
+"r=2sup_{x\in[a,b]}|f(x)|",data/mathwriting-2024/train/eb70287d4ea28bca.bin,"r=2&sup_{}|f(x)x\in[a,b]",0.6363636363636364
+\frac{5}{5\cdot n^{\frac{K\times(5\cdot K)}{2^{T+5}}}},data/mathwriting-2024/train/c5b5c3e3946d0f0c.bin,\frac{5}{2^{x+5\times(5\cdotK)\cdot},0.6363636363636364
+{S^{k}}_{i},data/mathwriting-2024/train/083308e46b3adc37.bin,\deltai^{k},0.6363636363636364
+\frac{}{\partial y\partial y},data/mathwriting-2024/train/521ba042c3e20d13.bin,\overline{dydy},0.6363636363636364
+\epsilon=\cdot\frac{log\frac{\tau_{\lambda_{1}}}{\tau_{\lambda_{9}}}}{log\frac{\lambda_{1}}{\lambda_{9}}},data/mathwriting-2024/train/d0a4ef1a9cddbb9a.bin,\epsilon=\frac{log\frac\tau_{\lambda_{1}{\tau},0.6346153846153846
+\frac{e^{\frac{(x-a)^{7}}{4}}}{i\sqrt{4\Delta}},data/mathwriting-2024/train/8b41599f13cd1a08.bin,\frac{e^{\frac{(\sqrt{},0.6333333333333333
+\frac{v^{\frac{(y-t)^{2}}{6}}}{i\sqrt{6\omega}},data/mathwriting-2024/train/e50b579185d5605c.bin,\frac{^{\frac{26{2}{},0.6333333333333333
+\begin{matrix}\dot{x}&=&Ax+bu\\ \dot{\xi}&=&u\\ y&=&cx+d\xi(1)\end{matrix},data/mathwriting-2024/train/ef824bbc7b916513.bin,\dot{x}\xi_{y=Ax+ucx+d\xi(1),0.631578947368421
+...CC...,data/mathwriting-2024/train/4d837f6de80b3e05.bin,.C.,0.625
+\frac{n^{log_{a}(b)}}{f(n)}\in\Omega(n^{\epsilon}),data/mathwriting-2024/train/556f3639beda2615.bin,\frac{f^{f}^{log_{n}(t)}{n},0.625
+\dot{e}_{r}=\omega e_{\theta},data/mathwriting-2024/train/dda715644ea56078.bin,e_{r}^{\prime}r}=\omegae_\theta},0.625
+\frac{d(Q\cdot C_{A})}{dV}=r_{A},data/mathwriting-2024/train/453482b6b4ddb949.bin,\frac{d d{r_{A}V},0.625
+\hat{x}_{1},data/mathwriting-2024/train/56f279038fe85cad.bin,x1},0.625
+\prod_{t=0}^{T}\frac{\hat{P}_{t+1}(z^{\tau})}{\hat{P}_{t}(z^{\tau})},data/mathwriting-2024/train/2f26d7b0243b8f88.bin,\frac_{}_{t}(z\tau\hat{P}(z\tau},0.625
+\frac{\rho V^{2}}{L},data/mathwriting-2024/train/9ee13435b81e1ba9.bin,{\rhoV^{2},0.6153846153846154
+10^{\frac{1}{5\sqrt{k_{J}}}}\cdot\frac{5.3}{Rv\sqrt{k_{J}}},data/mathwriting-2024/train/82a14e3973b98612.bin,\frac{1{5\cdot5}{RV\sqrt{K_{j},0.6153846153846154
+"\dot{s}_{f,ph-e}",data/mathwriting-2024/train/718ebe32f3b66ded.bin,"\dotsf,ph-e",0.6153846153846154
+=\frac{I_{|n|}(\kappa)}{I_{0}(\kappa)}e^{in\mu},data/mathwriting-2024/train/9dddd3b136f3ab42.bin,=\frac{I_e^{in\mu},0.6129032258064516
+lim_{t\rightarrow0}V_{e}=\frac{w+bV_{u}}{r+b},data/mathwriting-2024/train/f30544437f59d6e9.bin,l_{i=_{+bV_{u},0.6129032258064516
+lnK=\frac{nFE^{0}}{RT},data/mathwriting-2024/train/d99cd1f2878ccd7d.bin,ln{K^{^{},0.6111111111111112
+||P_{\Omega}(Z)||_{F}\le\delta,data/mathwriting-2024/train/13e6285792f435b9.bin,|/P_{_{2},0.6111111111111112
+\frac{7^{190}}{\sqrt{4}/8},data/mathwriting-2024/train/048d151c0dd3d4e4.bin,\frac{\frac{5{}{8{},0.6111111111111112
+\frac{\overline{e^{c}}\overline{u^{c}}qq}{\Lambda^{2}},data/mathwriting-2024/train/c966c912652145fc.bin,\frac{e_l-1q}{\Lambda^{2},0.6071428571428571
+\Gamma\models_{S}\perp\rightarrow\Gamma\vdash_{S}\perp,data/mathwriting-2024/train/307239fd8ed2c843.bin,\Gamma|=S^\perp}\rightarrow\Gamma\vdashS}\perp,0.6
+\neg\underline{A},data/mathwriting-2024/train/c10b5a3524c70e8a.bin,\neg\underlineA},0.6
+"F=\beta V,..........(31)",data/mathwriting-2024/train/ae6f941b2e48579f.bin,"F=\betaV,.(31)",0.6
+HIGH_{N}(Price),data/mathwriting-2024/train/b973e1c14291b42b.bin,HGH_{N^{}(P_{r^{\prime}ce),0.6
+T\underline{A},data/mathwriting-2024/train/cbb7f8e126d7eb75.bin,T\underlineA},0.6
+\frac{X_{b}}{X_{c}}=\frac{exp(\frac{-\Delta G^{\prime}}{RT})}{X_{c}^{0}},data/mathwriting-2024/train/292877da21cb9e4d.bin,=\frac{\frac{X_{b}{X_{c}^{exp(X_{_c}^{-\Delta a{}R^T},0.6
+T\underline{A},data/mathwriting-2024/train/a7cb55cb4c46dbdc.bin,T\underlineA},0.6
+e^{\lambda(e^{it}-1)},data/mathwriting-2024/train/2fb469aaf63aa818.bin,e^{px^{+},0.6
+A\overline{B},data/mathwriting-2024/train/75326712d652c826.bin,A\overlineB},0.6
+"\frac{\sqrt{\frac{(d_{1}t)^{d_{1}}d_{7}^{d_{7}}}{(d_{1}t+d_{7})^{d_{1}+d_{7}}}}}{tQ(\frac{d_{1}}{7},\frac{d_{7}}{7})}",data/mathwriting-2024/train/5e4908c5f8ae37a9.bin,"\frac{\sqrt{}tQ(\frac{d_{}{7},\frac{d_{7}{7}_{_{}{7}d_{1d_{7})",0.5979381443298969
+\frac{\sqrt{1-\frac{u^{2}}{y^{2}}}}{1\cdot\frac{u}{y}cos\theta_{k}},data/mathwriting-2024/train/38fae2ff96eaac56.bin,\frac{\sqrt{}{\cdot{v{4}cos\theta_{},0.5952380952380952
+A=(\frac{19000\beta}{Re_{D}})^{0.8},data/mathwriting-2024/train/e50537c767158932.bin,A=(\frac{0.8}RD}),0.5925925925925926
+"\frac{8!8!}{3!5!5!}=18,816",data/mathwriting-2024/train/cceab5cfd093421b.bin,"\frac{818,816",0.5909090909090909
+u_{i+\frac{1}{2}}^{*},data/mathwriting-2024/train/daf2d69cf6f11e2a.bin,U_{i}^{*}+\frac{1}{2},0.5882352941176471
+\begin{matrix}4\underline{)500}\\ 125\\ \end{matrix},data/mathwriting-2024/train/8d57ce6862678353.bin,4)\frac{50}{125},0.5882352941176471
+T=\sum\lambda_{i}U(g_{i}).,data/mathwriting-2024/train/d9492a885b80db6e.bin,T=\sum_}\lambda_iU|q_{,0.5882352941176471
+m\{\{...\{\{p\}\}...\}\}n,data/mathwriting-2024/train/0abd122ae5eb610a.bin,m\{.\{\rho\}.\}_{n,0.5882352941176471
+\omega=\tau T+\kappa B(1),data/mathwriting-2024/train/2f7d414e5fb41817.bin,w=\tauT+\kappaB(1),0.5833333333333334
+lim_{x\rightarrow0}\frac{ln(1+x)}{x}=1,data/mathwriting-2024/train/fae3e6c61e70e534.bin,lim_{x\rightarrow0}1,0.5833333333333334
+!(A\&B)\equiv!A\otimes!B,data/mathwriting-2024/train/33bac91779361f90.bin,!A\alphaB)\equivA\otimes B,0.5833333333333334
+\frac{\beta_{n+1}}{\beta_{n}}=\frac{A(n)}{B(n)},data/mathwriting-2024/train/17f04c303a9ce7f4.bin,\frac{\betan}\beta\frac{A1}{\beta(n)},0.5806451612903226
+y_{4}^{\prime}=\frac{y_{4}-\frac{z}{c^{2}}k_{4}}{\sqrt{4-\frac{z^{2}}{c^{2}}}},data/mathwriting-2024/train/2e37375f5c6560e1.bin,y_{4}^{\prime}=\frac{y_{}{}-\frac{2}-},0.5789473684210527
+1-cosx\sim\frac{1}{2}x^{2},data/mathwriting-2024/train/8cd89366130c5f7e.bin,1-cos^{(},0.5789473684210527
+\epsilon=\cdot\frac{log\frac{\tau_{\lambda_{1}}}{\tau_{\lambda_{9}}}}{log\frac{\lambda_{1}}{\lambda_{9}}},data/mathwriting-2024/train/444c595e5af1486d.bin,\epsilon=-\frac{l{}{log\frac{\lambda_{1}{\lambda_{}og1},0.5769230769230769
+\frac{q^{d}-1}{2q^{d}}\sim\frac{1}{2},data/mathwriting-2024/train/b1fb72ee9a35d681.bin,\frac{q1}{2{2q^{d},0.5769230769230769
+\frac{\sqrt{0-\frac{v^{5}}{c^{5}}}}{0\cdot\frac{v}{c}cos\theta_{h}},data/mathwriting-2024/train/805507a03d07d628.bin,\frac{\sqrt{}{\cdot\frac{}{c}cos\theta},0.5714285714285714
+\int x\cdot dx,data/mathwriting-2024/train/bb6311aa9296982d.bin,\int x\cdotdx,0.5714285714285714
+\pm\sqrt{2/3},data/mathwriting-2024/train/197f68647cb02459.bin,\pm\sqrt{\frac{2}{3},0.5714285714285714
+i^{n}\frac{d^{n}\hat{f}(\nu)}{d\nu^{n}},data/mathwriting-2024/train/8e127818394fa24c.bin,i^{n^{d^{n}f},0.5714285714285714
+k=2\pi\xi=\frac{2\pi}{\lambda},data/mathwriting-2024/train/9d0571356d81c5f2.bin,k=2\pi\xi},0.5714285714285714
+lim_{t\rightarrow0}\frac{o(t)}{t}=0,data/mathwriting-2024/train/0bb2212abf9fca2a.bin,lim_{t\rightarrow0},0.5714285714285714
+"\frac{\eta}{2}(c_{\eta}(0,\xi)-n_{\eta}^{\prime}(\xi))",data/mathwriting-2024/train/c9a4fa26b8b89003.bin,"\frac{\eta}{2}C_{cn}(0,\xi)",0.5625
+S=\gamma_{LG}(cos\theta-1),data/mathwriting-2024/train/e6b6396a412ee923.bin,s=\gammaLh(cos\theta+),0.5625
+D=(\frac{16T_{max}}{\pi\tau_{max}})^{1/3},data/mathwriting-2024/train/6361fb44d7446581.bin,D=(\frac1\frac^{1/}{\piT_{max},0.5625
+t_{i}=\frac{\hat{\epsilon}_{i}}{\hat{\sigma}\sqrt{1-h_{ii}}},data/mathwriting-2024/train/b56b5d904c39df8b.bin,\frac{\hat{\epsilon}_{i}{\hat{\sigma},0.5588235294117647
+\langle l\rangle\sim lnN,data/mathwriting-2024/train/15b0a11b1ac39f7a.bin,\langle l\rangle\simlnN,0.5555555555555556
+[\begin{matrix}1/2&-\sqrt{3}/2\\ \sqrt{3}/2&1/2\end{matrix}],data/mathwriting-2024/train/fc60d9f55d35d021.bin,[\begin{matrix}\frac1}{2}&\frac{\sqrt{3}{2\\ -\frac{\sqrt{3}2}1}{2}\end{matrix}],0.5555555555555556
+ABCDEFGHI,data/mathwriting-2024/train/6cee1db7075ffaaa.bin,ABCD\inFGH,0.5555555555555556
+\rho_{\alpha+}^{i_{0}^{*}},data/mathwriting-2024/train/a4b35d3b7b17b522.bin,\rho_{\rho}^{*},0.5555555555555556
+\tau=\frac{\omega T_{b}}{2Q_{L}},data/mathwriting-2024/train/93dcce5eecec34cd.bin,T=\frac{\omegab}{2QL},0.55
+(\frac{\sum_{k=1}^{n}X_{k}}{n})_{n\in N},data/mathwriting-2024/train/16c1602033d7a46c.bin,(\frac{\sum_{}n\inN}{}X_{},0.5483870967741935
+"\frac{\sqrt{\frac{(d_{1}n)^{d_{1}}d_{7}^{d_{7}}}{(d_{1}n+d_{7})^{d_{1}+d_{7}}}}}{nU(\frac{d_{1}}{7},\frac{d_{7}}{7})}",data/mathwriting-2024/train/ab77738fc726cee8.bin,"\frac{(}{}U(\frac{d_{1}{7},\frac{d_{7}{7})d_{1}n+d_{7}){d_{1+7}_{7}",0.5463917525773195
+"\frac{\sqrt{\frac{(d_{1}t)^{d_{1}}d_{7}^{d_{7}}}{(d_{1}t+d_{7})^{d_{1}+d_{7}}}}}{tQ(\frac{d_{1}}{7},\frac{d_{7}}{7})}",data/mathwriting-2024/train/e6853cf6042b6b04.bin,\frac{\sqrt{}Q(\frac{d_{1}{7}\fracd_{7}{7})_{1)d_{}_{7}_{1}d_7){d_{1}_{7},0.5463917525773195
+"\frac{\sqrt{\frac{(d_{1}n)^{d_{1}}d_{7}^{d_{7}}}{(d_{1}n+d_{7})^{d_{1}+d_{7}}}}}{nU(\frac{d_{1}}{7},\frac{d_{7}}{7})}",data/mathwriting-2024/train/b9d82762a2a7dc60.bin,"\frac{\sqrt{d}n(\frac{d_{1}{7},\frac{d_{7}{7})d{}{7}_}+d_{7})^{d_{}+d_7}",0.5463917525773195
+"R_{r}\propto\tilde{U}_{S}^{\dagger},\forall r",data/mathwriting-2024/train/c4b26478bf1566d4.bin,R_{r}_{s\forall r,0.5454545454545454
+\frac{1}{z_{+}z_{-}}log\gamma_{\pm},data/mathwriting-2024/train/fb1435394f6d99c9.bin,\frac{1}{2+z\cdotlog\gamma_{\pm,0.5416666666666666
+W_{B}=\hbar\omega_{B}-,data/mathwriting-2024/train/1f2e5a09a7ce4bcf.bin,W_{B}=\hbarB.,0.5384615384615384
+"w=Px+\frac{\langle a,v\rangle}{||v||^{2}}v",data/mathwriting-2024/train/d399860bc6e2cfa9.bin,"w=P_{x+\frac{\langlea,\nu\rangle}{|}v",0.5384615384615384
+o^{-\frac{1}{3}(\frac{log\frac{x}{x_{6}}}{log\varpi})^{3}},data/mathwriting-2024/train/cbd15393bad1db88.bin,o{\frac{1}{3}(\frac{4gi}{8}{8}3,0.5365853658536586
+\dot{\overline{\epsilon}}=\sqrt{(\begin{matrix}\underline{2}\\ 3\end{matrix}\dot{\overline{\overline{\epsilon}}}:\dot{\overline{\overline{\epsilon}}})},data/mathwriting-2024/train/275ac3962d6dbf12.bin,\overline{\epsilon}\prime}=\sqrt{(\frac{2}{3}\overline{\epsilon})\overline{\epsilon},0.5348837209302325
+f=\frac{1}{4\pi\epsilon_{0}}\frac{a^{2}}{r^{2}},data/mathwriting-2024/train/a3f8c0b4868969ef.bin,f=\frac{1a^{2}{4\pi\epsilon_{0}\gamma^{2},0.5333333333333333
+\times1000^{o}/_{oo},data/mathwriting-2024/train/a6ad79bd400c5579.bin,\times10^{\circ}/0,0.5333333333333333
+(\begin{matrix}c_{k}\\ k\end{matrix})\le N,data/mathwriting-2024/train/058efebd5e2e7cd5.bin,(\begin{matrix}\subseteq_{N_{k\\ k\end{matrix}),0.5333333333333333
+\rho_{A_{1}...A_{r}}^{J_{A_{k_{1}}...A_{k_{o}}}},data/mathwriting-2024/train/85a630707d19848d.bin,\rho_{A_{}^{_A{_{1}.A_{kr}^.A{_{r},0.5333333333333333
+"w=(\langle\overline{M}\rangle,10^{k})",data/mathwriting-2024/train/9b1dfbefb8d9d8ea.bin,w=(\overline{ 1]&0^K),0.5294117647058824
+F_{i\pm\frac{1}{2}}^{*},data/mathwriting-2024/train/6eee357f9244cadb.bin,F_{i}^{*}\pm\frac{1}{2},0.5294117647058824
+T_{c}=\frac{\sum_{x}xl_{x}m_{x}}{\sum_{x}l_{x}m_{x}},data/mathwriting-2024/train/ade42aace782fe87.bin,T_{C=\sum_{x}xl_{x}m_{x},0.5238095238095238
+P_{\nu_{b}\rightarrow\nu_{a}}^{(0)},data/mathwriting-2024/train/914c0e66a51f70b0.bin,P_{v_ba}^{(0)v_{},0.5238095238095238
+\int_{0}^{\infty}\frac{n^{\cdot(\frac{(y+z)^{8}}{8w})}}{\sqrt{8\mu w}},data/mathwriting-2024/train/282b50c418f33d98.bin,\int_{}^{\infty}\frac{m){(y+z)}{8w},0.5227272727272727
+|\tau_{\alpha_{1}i_{2}}^{[3..N]}\rangle,data/mathwriting-2024/train/60c0dc71fd8f9e92.bin,|_{\alphaT{}^{[3.N]\rangle},0.52
+\alpha=\cdot\frac{log\frac{\Pi_{\lambda_{0}}}{\Pi_{\lambda_{2}}}}{log\frac{\lambda_{0}}{\lambda_{2}}},data/mathwriting-2024/train/4ae975d73c092adb.bin,a=\frac{log\frac{\Pi_{\lambda_{0}{\tau_{lw}{\zeta_{\omega},0.5192307692307693
+\alpha=-\frac{log\frac{\Upsilon_{\varsigma_{0}}}{\Upsilon_{\varsigma_{2}}}}{log\frac{\varsigma_{0}}{\varsigma_{2}}},data/mathwriting-2024/train/3931375192eeb7fc.bin,\alpha=-\frac{lo{}{}log\frac{\varsigma_{0}{\varsigma_{2}og\frac{},0.5192307692307693
+\Omega(x)=\frac{e^{-\frac{x^{1}}{1}}}{\sqrt{1\Lambda}},data/mathwriting-2024/train/45ddbea6eeb9db7e.bin,\Omega(x)=e^{-{x^{1},0.5161290322580645
+\Xi(x)=\frac{e^{\cdot\frac{x^{5}}{5}}}{\sqrt{5\pi}},data/mathwriting-2024/train/0fedd151bbd822e3.bin,\Xi(x)=\frac{e^{5\sqrt{\sqrt5},0.5161290322580645
+"\frac{\sqrt{\frac{(d_{1}t)^{d_{1}}d_{7}^{d_{7}}}{(d_{1}t+d_{7})^{d_{1}+d_{7}}}}}{tQ(\frac{d_{1}}{7},\frac{d_{7}}{7})}",data/mathwriting-2024/train/bbf112bb1afc4347.bin,\frac{\sqrt{}Q(\frac{d{1}{7}\frac{d_{7}{7})d_{1}d_{1}_{7}_{7}_{1}td_{7)d_{1}+_{7},0.5154639175257731
+e^{-\lambda}\frac{\lambda^{k}}{k!}=e^{-5}\frac{5^{k}}{k!},data/mathwriting-2024/train/f6579799c3db3974.bin,e^{-\lambda}\frac{\lambda^{k}{k^{\prime},0.5135135135135135
+-\frac{\frac{\beta}{\beta+1}r_{O}+r_{E}}{r_{O}+r_{E}},data/mathwriting-2024/train/061bb5cc0671d27c.bin,-\frac{\frac{}{r_{O}+r_{E},0.5135135135135135
+a^{-\frac{1}{3}(\frac{log\frac{x}{x_{8}}}{log\Xi})^{3}},data/mathwriting-2024/train/d90f41e32f6e5dd9.bin,a^{-\frac{1}{3}(\frac{l{3log},0.5121951219512195
+\frac{h}{k}=\frac{{\frac{\partial(T_{s}-T)}{\partial y}|}_{y=0}}{(T_{s}-T_{\infty})},data/mathwriting-2024/train/4898fb67f548f263.bin,\frac{h}{k}=\frac{T_{1}-_{}{\partial(T_{s}-T)}{}|_{},0.5094339622641509
+\frac{1+\frac{n}{c}cos\iota_{s}}{\sqrt{1\cdot\frac{n^{3}}{c^{3}}}},data/mathwriting-2024/train/258c42915289bbc9.bin,\frac{1}s}\sqrt{1\cdot\frac{n{}{c^{3},0.5
+Vz=Iz.Zz,data/mathwriting-2024/train/080f607c2018c5d8.bin,Vz=Iz}.Z_2},0.5
+|\psi_{Tr}^{\perp}\rangle,data/mathwriting-2024/train/1d2abf3b8daf0d17.bin,|\psi\frac{1}{T}r\rangle,0.5
+O=(O\times O)/O,data/mathwriting-2024/train/ab5ca4ec5b8f2a5b.bin,0=(0\times0)/0,0.5
+\tilde{\psi},data/mathwriting-2024/train/fd84ebb273314c18.bin,\tilde{\psi^{},0.5
+\prod_{i=n-r+1}^{n}i,data/mathwriting-2024/train/d39cf7a30be1584e.bin,i=\hat{n}n-r+1{}i,0.5
+Z=X\times Y,data/mathwriting-2024/train/a8190b9eb102039e.bin,Z=X\timesY,0.5
+K\in L_{\mu\otimes\mu}^{2}(X\times X),data/mathwriting-2024/train/26c748a80b66c940.bin,k\in L_{\mu}^{2}\otimes_{\mu}(X{* X),0.5
+\tilde{I}_{1},data/mathwriting-2024/train/da094ada69b0d8de.bin,\overlineI_{1},0.5
+0.\dot{1},data/mathwriting-2024/train/a00595b73861b119.bin,0.1,0.5
+"Spin(12,\mathbb{C})",data/mathwriting-2024/train/4ef192b897f28919.bin,"spinl(Z,C)",0.5
+\alpha=-\frac{log\frac{\Upsilon_{\varsigma_{0}}}{\Upsilon_{\varsigma_{2}}}}{log\frac{\varsigma_{0}}{\varsigma_{2}}},data/mathwriting-2024/train/3bb795df0e3a150d.bin,\alpha=-\frac{lo{log\frac{l\varsigma_{0}{\varsigma_{2}og\frac{\gamma_{2},0.5
+D\underline{u}x,data/mathwriting-2024/train/fc0d187318aeb4d7.bin,D_{Ox,0.5
+A\models_{X}^{+}Rt_{1}...t_{n},data/mathwriting-2024/train/e8f574293a867dba.bin,AI=+_{X}Pt_{1t_{n},0.5
+"|N^{\prime}|\le\chi(x,X)",data/mathwriting-2024/train/9962dc3497584559.bin,"|\dot{N}^{|}\le X(x,X)",0.5
+\cdot\cdot\cdot\exists\delta\forall x\forall y\cdot\cdot\cdot,data/mathwriting-2024/train/96703b40607ba214.bin,\underline\delta\forall x\forall y,0.5
+\epsilon({\Lambda^{\mu}}_{\nu})={\delta^{\mu}}_{\nu},data/mathwriting-2024/train/c4b9d7938cc6e8a3.bin,\epsilonC(\Lambda{}^{\mu\nu)=\delta^{\mu\nu},0.5
+D^{\le0}\supset D^{\le1},data/mathwriting-2024/train/ab8c6662e1fffc48.bin,D^{\le}_{0},0.5
+1<s\le n,data/mathwriting-2024/train/fb69a29bb187df52.bin,1<s\len,0.5
+\frac{\lambda qmd^{2}}{2\pi\epsilon_{0}\hbar},data/mathwriting-2024/train/dac95ab252c9151e.bin,\frac{}2}{\epsilon_{0}\hbar\pi},0.5
+sin\theta=\frac{mn\lambda_{0}}{\Lambda},data/mathwriting-2024/train/cecdf924c8da6854.bin,sim\theta=\frac{mn},0.5
+0<H\ll lnlnT,data/mathwriting-2024/train/6da733486a1054fb.bin,0<H\llln|nT,0.5
+\prod_{i}C_{i},data/mathwriting-2024/train/ba2cc3bd3cde9429.bin,\prod_{i}=C_{i}^{\prime},0.5
+\propto\frac{a^{\alpha-1}\beta^{\alpha c}}{\Gamma(\alpha)^{b}},data/mathwriting-2024/train/07dc82db2d828aea.bin,\alpha\frac{a\alpha}{\Gamma(\alpha)^{b},0.5
+\vartheta=-\frac{log\frac{\phi_{\varsigma_{1}}}{\phi_{\varsigma_{2}}}}{log\frac{\varsigma_{1}}{\varsigma_{2}}},data/mathwriting-2024/train/dc3aacf333da0a49.bin,\vartheta=-\frac{lo{}{log\frac{\varsigma_{1}{\varsigma_{2}log\frac{\phi_{},0.5
+L=-\frac{u_{*}^{2}}{\varpi\frac{o}{\overline{\psi_{v}}}\overline{z^{\prime}\psi_{v}^{\prime}}},data/mathwriting-2024/train/5b4bc453e1de5b25.bin,L=-\frac{2{\frac{\psi_{0}z^{\prime}\psi_{0}{\prime},0.4897959183673469
+\dot{\overline{\epsilon}}=\sqrt{(\begin{matrix}\underline{2}\\ 3\end{matrix}\dot{\overline{\overline{\epsilon}}}:\dot{\overline{\overline{\epsilon}}})},data/mathwriting-2024/train/20e9a594e6086009.bin,\dot{\epsilon}=\sqrt{(\frac{2}{3}\overline{\epsilon}\cdot\dot{\epsilon})},0.4883720930232558
+Q=\sqrt{\frac{{R_{3}}^{7}Y_{0}}{R_{7}R_{8}Y_{7}}},data/mathwriting-2024/train/63e04af35cb3a718.bin,Q=\sqrt{_{}{R_{}7}{R_{8}T_{7},0.4878048780487805
+Tr(\hat{C}_{H_{i}}\rho\hat{C}_{H_{j}}^{\dagger})\approx0,data/mathwriting-2024/train/634ad1d42d1d129e.bin,Tr(\hat{C}_{Hi}\rho\hat{C}),0.4857142857142857
+j^{(\frac{\kappa}{\varpi})[1-\sqrt{1-\frac{0\varpi^{0}t}{\kappa}}]},data/mathwriting-2024/train/c65bf340b5f07ec9.bin,^{(\frac{k}{\varpi})(1-\sqrt{1}]},0.4857142857142857
+P(w)=\frac{g^{-\frac{H(w)}{k_{M}T}}}{W},data/mathwriting-2024/train/c4ae505371c766e5.bin,P(x|)=\frac{g^{-\frac{H}{k}(W|)}{p9}T}{x},0.4838709677419355
+|A_{I}\backslash\bigcup_{i\in[n]\backslash I}A_{I\cup\{i\}}|,data/mathwriting-2024/train/59574741cabe2c0e.bin,|A_{I}I}_i }_{i\in }A_{IU}\{_i\}|,0.4827586206896552
+"(\frac{7}{\sqrt{10}},\sqrt{\frac{3}{2}},0,\pm2)",data/mathwriting-2024/train/36383421cf7df11e.bin,"(\frac{1{3{}{\sqrt{2},0,\pm20)",0.4827586206896552
+"h\in H_{1}\backslash\{w_{1,\beta_{1}}^{-1},1\}",data/mathwriting-2024/train/cc9b235d611b82f1.bin,h\in H_{1}\backslash\{\omega1}^{-1\beta_{1|}|\},0.4827586206896552
+\gamma^{2}=-\vec{g_{eff}}\cdot\frac{\nabla p}{p},data/mathwriting-2024/train/d32775e70ec8f332.bin,\gamma=-g_ef}f\cdot\frac{\nablap}{\rho},0.48148148148148145
+\alpha=-\frac{log\frac{\Upsilon_{\varsigma_{0}}}{\Upsilon_{\varsigma_{2}}}}{log\frac{\varsigma_{0}}{\varsigma_{2}}},data/mathwriting-2024/train/1a07647f19e498a7.bin,\alpha={0\frac{}{0{\Upsilon_{_{2}log\frac{\Upsilon_{\varsigma0}{\Upsilon_{s2},0.4807692307692308
+V_{N\backslash\{b_{i}\}}^{M\backslash\{t_{j}\}},data/mathwriting-2024/train/8b4ed4d40f7b7077.bin,\bigcupm\backslash\{t_{i}\}N\backslash\{b_{i}\},0.48
+\hat{QP2A}=\frac{1}{2}\hat{P2O2Q},data/mathwriting-2024/train/1271a4d938b03bc9.bin,\overline{Q_{P_{LA}=\frac{1}{2}\overline{p_{2}O2Q},0.4782608695652174
+\int_{0}^{\infty}\frac{s^{-(\frac{(y+j)^{1}}{1l})}}{\sqrt{1\omega l}},data/mathwriting-2024/train/32ad86b9856f46f2.bin,\int_{0}^{\infty}\frac{(y+j\cdoty^{1)}{1}\frac,0.4772727272727273
+"W_{\mu}\approx-2g_{[\mu\nu]}^{,\nu}",data/mathwriting-2024/train/9f43042fb154713f.bin,W_{\mu}\approx-2g\nu^{I}\nu[\mu\nu,0.47619047619047616
+"\frac{\Gamma,A,A\vdash\Delta}{\Gamma,A\vdash\Delta}(CL)",data/mathwriting-2024/train/5f4ed3e96cce6f7d.bin,"\frac{\Gamma(L)\Gamma,A,A\vdashA}{\Gamma,A\vdash\Delta}",0.47619047619047616
+\frac{F_{out}}{F_{in}}=\eta\frac{d_{in}}{d_{out}},data/mathwriting-2024/train/bd3eb037407bff12.bin,\frac_{F_{out=n\frac{d_in}{d_{ot}_{i},0.47368421052631576
+\mu(U)=sup_{C\subset U}\lambda(C),data/mathwriting-2024/train/de1ce3143e368c20.bin,u(U)=sup_{c\lambda(C)CcU,0.47368421052631576
+\Omega_{O_{L}/O_{K}}^{1},data/mathwriting-2024/train/1d96b90636802d14.bin,\Omega_{O_}^{1}/O_{k},0.47368421052631576
+[\begin{matrix}-\frac{1}{2}{\eta_{1}}^{-1}\\ 2\eta_{2}+p+1\end{matrix}],data/mathwriting-2024/train/aea488ec2104c462.bin,[\begin{matrix}{1{1}{2\eta_{2}+p+1],0.4722222222222222
+Z=-\frac{u_{*}^{3}}{\Pi\frac{e}{\overline{\theta_{j}}}\overline{q^{\prime}\theta_{j}^{\prime}}},data/mathwriting-2024/train/d767821d273ff004.bin,z=-\frac{v_{*}^{3}{e{\Pi=q_}^{\prime}\theta{j}^{\prime}{\theta_{j},0.46938775510204084
+a_{i}=e^{\frac{\mu_{i}-\mu_{i}^{\ominus}}{RT}},data/mathwriting-2024/train/2f99bfada2719a43.bin,a_{i}=e^{\frac{_}{RT},0.46875
+k:\hat{A}\rightarrow Prim(A),data/mathwriting-2024/train/86396001cf2b7942.bin,k:\tilde{A}\rightarrowPrim(A),0.4666666666666667
+\prod_{i=2}^{2002}1,data/mathwriting-2024/train/e08d4500591b98f8.bin,\prod_{i=}{},0.4666666666666667
+\phi=arctan\frac{y}{x},data/mathwriting-2024/train/7e5b27cc036cf6cd.bin,\phi=arcTax},0.4666666666666667
+e^{-\frac{3}{5}(\frac{log\frac{x}{x_{4}}}{log\upsilon})^{5}},data/mathwriting-2024/train/b40ef31e62f2695f.bin,e^{-\frac{3}{5}(\frac{og{log\upsilon},0.4634146341463415
+\epsilon({\Lambda^{\mu}}_{\nu})={\delta^{\mu}}_{\nu},data/mathwriting-2024/train/3528fa6261ba85d1.bin,\epsilon(\Lambda^{\mu}\nu)=\delta_{^{\mu},0.46153846153846156
+D_{1}=\frac{\kappa}{2},data/mathwriting-2024/train/778c2247910e8953.bin,D_{1}=K/2,0.46153846153846156
+"d_{x}=d(x,\partial\Omega)",data/mathwriting-2024/train/7ea9c751a7dd8aef.bin,"dx=d(x,\partial_{\Omega})",0.46153846153846156
+\lfloor\frac{n^{2}}{4}\rfloor,data/mathwriting-2024/train/04eb7a5ce7a29a61.bin,\lfloor\frac{^{2\rfloor,0.46153846153846156
+T(A)\Rightarrow memT(B),data/mathwriting-2024/train/6030ca90c47a47ef.bin,T(A)\RightarrowmemT(B),0.46153846153846156
+F_{n}=\sum_{k=0}^{\lfloor\frac{n-1}{2}\rfloor}(\begin{matrix}n-k-1\\ k\end{matrix}),data/mathwriting-2024/train/76ce0b1c1af89d2b.bin,F_{n-1}{2}k0^{}n}(\begin{matrix}n-k-1\\ k\end{matrix}),0.46153846153846156
+\tilde{\nu}=\tilde{\nu}_{vib}\pm BJ(J+1),data/mathwriting-2024/train/a16acb59c4d94ae8.bin,\tilde{\nu}=\tilde{\nu}_{\nui|D}\pm BJ(_{H}^{\prime},0.4583333333333333
+"\epsilon_{\nu,\Omega}=\frac{L_{e,\Omega,\nu}}{L_{e,\Omega,\nu}^{\circ}}",data/mathwriting-2024/train/5602f7951c87b27f.bin,"\epsilon_{v,\Omega=\fracL_{e,\Omega,}V{L\partiale,\Omega,V}",0.45714285714285713
+(\frac{F/\mathbb{Q}}{\cdot}),data/mathwriting-2024/train/ab658f7f472b8276.bin,(\frac{F/Q),0.45454545454545453
+x\ge log(1+x),data/mathwriting-2024/train/e69d51de099c93a1.bin,x\gelog(1+x),0.45454545454545453
+2t\frac{dW}{dt},data/mathwriting-2024/train/c27d16f08981d074.bin,2=\fract\fracdW}{dt},0.45454545454545453
+H^{H^{<g>}},data/mathwriting-2024/train/6f37327ec4be8d77.bin,H^{H^\langleg\rangle},0.45454545454545453
+s\models_{K}f_{2},data/mathwriting-2024/train/d4016434e27b0bfc.bin,sl=kf_{2},0.45454545454545453
+\zeta_{(x_{d})},data/mathwriting-2024/train/9c5a4fb8f816018b.bin,\zeta^{(_{},0.45454545454545453
+\alpha_{i}\simeq-\mu/kT,data/mathwriting-2024/train/df5ec7be616dbce5.bin,\alpha_{i}\simeq-\frac{\mu}{kT},0.45454545454545453
+\frac{\sqrt{1-\frac{v^{5}}{c^{5}}}}{1\cdot\frac{v}{c}cos\phi_{s}},data/mathwriting-2024/train/022aaf89acd06af7.bin,\frac{\sqrt{}{1\cdot\frac{v}{c}cos\phi_{s},0.4523809523809524
+\frac{1+\frac{n}{c}cos\iota_{s}}{\sqrt{1\cdot\frac{n^{3}}{c^{3}}}},data/mathwriting-2024/train/0e9b05c035acd211.bin,\frac{1{}{\sqrt{1\cdot\frac{n^{3}{c^{3},0.4523809523809524
+\Xi(x)=\frac{e^{\cdot\frac{x^{5}}{5}}}{\sqrt{5\pi}},data/mathwriting-2024/train/c9a24cc836a2056c.bin,\Xi=e^{+\frac{5}{5}{\sqrt{\pi},0.45161290322580644
+\phi(p)=\frac{e^{-\frac{p^{5}}{5}}}{\sqrt{5\epsilon}},data/mathwriting-2024/train/9a6f624c734f8a12.bin,\phi=\phi(\frac{p^{5}{s}{\sqrt{5\epsilon},0.45161290322580644
+u=\prod_{i=1}^{k/2}p_{i},data/mathwriting-2024/train/f1db0a57943aac1b.bin,U=\prod_{i=1/2}=},0.45
+"|z_{D}-\zeta_{k(m,n)}|<\epsilon",data/mathwriting-2024/train/09f15a8510116fd4.bin,"*-.\zeta_{k}(m,n)|<\epsilon",0.45
+\langle\psi_{r}^{\prime}|P_{1}|\psi_{r}^{\prime}\rangle=1,data/mathwriting-2024/train/262435771a8e5a59.bin,\langle\psi{}P_{1}|\psi_{r}\rangle,0.4482758620689655
+\frac{a_{1}\zeta}{1+\frac{a_{2}\zeta}{1+...}},data/mathwriting-2024/train/c93b4dcffcff749f.bin,\frac{a_{1}\zeta}{\frac{1+\frac{_{2},0.4482758620689655
+\frac{1}{v^{2}}\frac{\partial^{2}X}{\partial t^{2}}=\nabla^{2}X,data/mathwriting-2024/train/58bd4c6b6cda2541.bin,\frac{\partial^{2}x}{\partial t^{2}^{2}=\nabla^{2}x,0.4444444444444444
+y\ne\pm i\frac{1}{\sqrt[4]{5}},data/mathwriting-2024/train/3e32bfc2e70cdde9.bin,y\pm1}{4]{5},0.4444444444444444
+\forall P\forall x(x\in P\vee x\notin P),data/mathwriting-2024/train/89ee4aa987c8d50b.bin,\forallP\forallx(x\in P-x\notin P),0.4444444444444444
+\vartheta=-\frac{log\frac{\phi_{\varsigma_{1}}}{\phi_{\varsigma_{2}}}}{log\frac{\varsigma_{1}}{\varsigma_{2}}},data/mathwriting-2024/train/c16e1d3a78b23975.bin,\vartheta=-{og\frac{_{1}{\varsigma_{2}log\frac{\phi_{\varsigma{1}{_{},0.4423076923076923
+C=\frac{Z\alpha}{n}\frac{\mu c^{2}}{\hbar c},data/mathwriting-2024/train/8838227ce9d7d6b5.bin,C=\frac{Z\alpha c^{2}{\hbarc},0.44
+o^{-\frac{1}{3}(\frac{log\frac{x}{x_{6}}}{log\varpi})^{3}},data/mathwriting-2024/train/82670b69e9e8869f.bin,o^{-\frac{1}{3}(\frac{lol3}{log\varpi},0.43902439024390244
+\chi_{-}(1)\chi_{+}(2),data/mathwriting-2024/train/de1335ec898bfff7.bin,\chi-1)\chi+(2),0.4375
+F[T]\subset End_{F}(V),data/mathwriting-2024/train/bd0e43ed83e7b712.bin,F[]\subset End(],0.4375
+\vec{L}=\vec{r}\times m\vec{v},data/mathwriting-2024/train/c8a2fc8948b9a150.bin,\vec{L}=\vec{}r},0.4375
+\vec{\sigma}_{R}=\frac{-\vec{S}\times\vec{h}}{Mc\sqrt{1+\vec{h}^{2}}},data/mathwriting-2024/train/478bbf028c4a1881.bin,\vec{\sigma}_{R}=\frac{\vec\cdot}Mc\sqrt{1}+\vech^{2},0.4358974358974359
+W=-\int_{V_{i}}^{V_{f}}PdV,data/mathwriting-2024/train/ee1c76591818fe48.bin,W=-\int_{}{V_{i}V,0.43478260869565216
+a_{n}\equiv\frac{f^{(n)}(0)}{n!},data/mathwriting-2024/train/b9af597603040e94.bin,a_{n}=\frac{f(n)(0)}{n_{}^{\prime},0.43478260869565216
+\frac{e^{\frac{(u-q)^{3}}{9}}}{i\sqrt{9\iota}},data/mathwriting-2024/train/d0b3b6c859f4e82f.bin,\frac{e^{\frac{(u-}{9{\sqrt{\sqrt9},0.43333333333333335
+\underline{P}X=\emptyset,data/mathwriting-2024/train/41829dc527f89cb9.bin,PX=\emptyset,0.42857142857142855
+\frac{\alpha_{X}}{\alpha_{X}+\beta_{X}}\frac{\alpha_{Y}}{\alpha_{Y}+\beta_{Y}},data/mathwriting-2024/train/18e2928810646992.bin,\frac{\alpha_ X}{\alpha X+\beta X}\frac{\alpha{Y}{\alphaY+\beta Y},0.42857142857142855
+\varphi^{(n)},data/mathwriting-2024/train/19ad4096c51b1f69.bin,\varphi(n),0.42857142857142855
+"\frac{\Gamma,A,A\vdash\Delta}{\Gamma,A\vdash\Delta}(CL)",data/mathwriting-2024/train/342bc989b0abecac.bin,"\frac{\Gamma,\vdash(CL)}{\Gamma,A\vdash\Delta}",0.42857142857142855
+C\subseteq\sum^{n},data/mathwriting-2024/train/08cadeaa8e210726.bin,c^{n},0.42857142857142855
+(\iota x.\phi),data/mathwriting-2024/train/99cd6a769c6a804e.bin,(\iotax.\phi),0.42857142857142855
+y\leftarrow\alpha x+y,data/mathwriting-2024/train/b3db0e7ce82a9656.bin,y\leftarrow\alphax+y,0.42857142857142855
+\lceil k/16\rceil,data/mathwriting-2024/train/693c89f9dd449d86.bin,\lceilk/16\rceil,0.42857142857142855
+\tilde{\varphi}\circ\omega_{H}=\omega_{\tilde{H}}\circ\varphi|_{H},data/mathwriting-2024/train/1b0cc499c62756b0.bin,\tilde{\varphi}\circ_{H=\omega\tilde{H}^{0}\varphi/H,0.4230769230769231
+[T]_{\Phi_{a}}^{\Phi_{b}},data/mathwriting-2024/train/fcf3164b8b1adb71.bin,[T]_{a}^{\Phi},0.42105263157894735
+2^{\aleph_{\omega}}<\aleph_{\omega_{1}},data/mathwriting-2024/train/b93be2c5f838bdb3.bin,"2^{N}\omega_<N_{\omega_{,}",0.42105263157894735
+(\theta_{(\alpha/2)}^{*};\theta_{(1-\alpha/2)}^{*}),data/mathwriting-2024/train/9d0324da395d8fcc.bin,(\theta^{*}(\alpha/2);\theta^{*_{(1-\alpha_/2)}),0.41935483870967744
+"\pi=\frac{\partial L}{\partial\dot{\phi}},\dot{\phi}\equiv\frac{\partial\phi}{\partial t}",data/mathwriting-2024/train/2cf29e02fb266266.bin,"\pi=\frac{\partialL}{\partial\phi^{0},\phi}=\frac{\partial\phi}{\partialt}",0.41935483870967744
+E_{a^{n}}^{\dagger}E_{b^{n}}\notin N(S)\\ S,data/mathwriting-2024/train/1ef0f7e2a9f4753a.bin,E_{s}a^{n}E_{b^{n}\notinN(S),0.41935483870967744
+\nabla^{2}\psi=\frac{-\rho_{e}}{\epsilon\epsilon_{0}},data/mathwriting-2024/train/967d77b0ab80c462.bin,\nabla^{2}\psi=^{-\rho_{e},0.4166666666666667
+\frac{}{id:-\alpha\vdash\alpha},data/mathwriting-2024/train/1782b084c6eacd73.bin,i{d:-\alpha\mapsto\alpha},0.4166666666666667
+\{X_{t};t\in T\},data/mathwriting-2024/train/1613c1d5aa420360.bin,\{X_{t;}t\inT\},0.4166666666666667
+{X^{a}}_{;b},data/mathwriting-2024/train/050e88366c88c1f7.bin,X^{a};b,0.4166666666666667
+\forall x||Hx||\le q,data/mathwriting-2024/train/331d415c297fa62a.bin,\forall x|Hx|\leq,0.4166666666666667
+=\frac{(q;q)_{n}}{(1-q)^{n}},data/mathwriting-2024/train/882c719ba7fa6bd7.bin,=\frac{(q}1-q)^{n},0.4166666666666667
+"I^{p,\bullet}=J\oplus K",data/mathwriting-2024/train/1f3ffc8e557cd43b.bin,"I^{p,-\Theta}=J\ThetaK",0.4166666666666667
+T/(p_{1}\cap T),data/mathwriting-2024/train/2516798928033352.bin,"T/(p,\cap {T)",0.4166666666666667
+\oint_{C}v\cdot dr=0,data/mathwriting-2024/train/9ba3ed3d16733a13.bin,\oint_{C}{V\cdot d\vec{r}=0,0.4166666666666667
+s+t\ge\lfloor w/2\rfloor-1,data/mathwriting-2024/train/8f2c27924b27ca6f.bin,s_+t\ge\lfloorw/2]-1,0.4166666666666667
+J>q_{0.95}^{\chi_{k-l}^{2}},data/mathwriting-2024/train/4dbc95bbeb40327b.bin,J>q_{0.9_{5}^{x_{k},0.4166666666666667
+e^{-\frac{3}{5}(\frac{log\frac{x}{x_{4}}}{log\upsilon})^{5}},data/mathwriting-2024/train/62f897cbd2a9b39a.bin,e^{-\frac{3}{c}(\frac{y\frac{yxy_{0}{yN})^{c},0.4146341463414634
+R_{ij}\equiv\rho\overline{u_{i}^{\prime}u_{j}^{\prime}},data/mathwriting-2024/train/04daa03db0c02669.bin,R_{ij}\equiv\overline\rhou_{i}{i}\dot{u_{j},0.41379310344827586
+U_{L}=1-\frac{{\langle s^{4}\rangle}_{L}}{3{\langle s^{2}\rangle}_{L}^{2}},data/mathwriting-2024/train/08b33015b0254943.bin,V_{l}=1-\frac{\langles^{4}\rangle_{L}{3\langles^{2}\rangleL^{2},0.41304347826086957
+f\circ m_{V}=m_{W}\circ f,data/mathwriting-2024/train/a8cde1fe587d13a5.bin,f\circ mv=mW\circ f,0.4117647058823529
+d\mu^{X}=\iota_{X^{\#}}\omega,data/mathwriting-2024/train/e165955cfff7f799.bin,d\mu^{x}=l_{X}\new},0.4117647058823529
+"S\subseteq[n],|S|\le d,j\notin S",data/mathwriting-2024/train/377916732b69939b.bin,"S\le[n]|S|\led,j\notin",0.4117647058823529
+{\langle\chi|\psi\rangle}^{*}=\langle\psi|\chi\rangle,data/mathwriting-2024/train/e391b792bec81463.bin,\langleX|\psi\rangle^{*}=\langle\psiX\rangle,0.4117647058823529
+d\vec{B}=\frac{\mu_{0}}{4\pi}\frac{Id\vec{l}\times\vec{r}}{r^{2}},data/mathwriting-2024/train/48e3602cb3ff2a06.bin,d\vec{B}=\frac{\mu}{4\pi}\frac{}{r^{2r},0.41025641025641024
+{(\frac{{w_{m}}^{9}}{{w_{c}}^{9}}-1)}^{9}\ge0,data/mathwriting-2024/train/33f9817f5361dabc.bin,\frac{\omega{_{m}^{9}{w_{c}^{9}^{},0.41025641025641024
+x\in\bigcup_{n\ge1}\bigcap_{j\ge n}A_{n},data/mathwriting-2024/train/0e005eb2c1729fa5.bin,x\in\bigcup_{\ge n}n}A_{n},0.4090909090909091
+P^{(\pm)}=\frac{1}{2}(1\mp i*),data/mathwriting-2024/train/b1c3f13529143a4c.bin,p(\pm)=\frac{1}{2}\mp^{i}*),0.4090909090909091
+Q(\zeta_{p^{\alpha}}+\zeta_{p^{\alpha}}^{-1}),data/mathwriting-2024/train/1497b058319a4654.bin,Q(_{p^{\alpha}+_}^{-1{\alpha}),0.4074074074074074
+\frac{e^{\cdot\frac{x^{8}}{8\sigma^{8}}}}{\sqrt{8\vartheta}\sigma},data/mathwriting-2024/train/3c01bfd29bb0ca84.bin,\frac{e^{\cdot\frac{x^{8}{\sqrt8\sigma^{8},0.40625
+\frac{e^{\cdot\frac{x^{8}}{8\sigma^{8}}}}{\sqrt{8\vartheta}\sigma},data/mathwriting-2024/train/f23d9cdf85ec9fc3.bin,\frac{^{8}{8\sigma^{8}{\sqrt{8V\sigma},0.40625
+d_{A}(z)\propto\int_{0}^{z}\frac{dz^{\prime}}{H(z^{\prime})},data/mathwriting-2024/train/7eccdcea6402c516.bin,d_{A}(z)\propto\int_{0}^{z}{^1-z},0.40540540540540543
+q\ll1/200000,data/mathwriting-2024/train/d74a52ba0bb12122.bin,q\ll1/20,0.4
+\nabla_{[a}R_{bc]d}^{e}=0,data/mathwriting-2024/train/1989d104c4187d02.bin,\nabla[ac}R_{bc}^{e}]d}=0,0.4
+\Phi_{1}=\Phi_{2}\equiv\Phi(x_{\perp}),data/mathwriting-2024/train/45a6c8ce57a3aacf.bin,\Phi_{1}=\Phi=\Phi(x\perp),0.4
+Math\ge good,data/mathwriting-2024/train/7dcbf25ffd6fc6da.bin,Malh\rangle.god,0.4
+J\approx\beta ab^{3},data/mathwriting-2024/train/d4a4f00f49ecdd19.bin,J\approx\betaab^{3},0.4
+"(\rho|_{W},W),W\subset V",data/mathwriting-2024/train/0973e807162a3825.bin,"(P|w,W)W\subset V",0.4
+\eta^{\rho\sigma}{\Lambda^{\mu}}_{\rho}{\Lambda^{\nu}}_{\sigma}=\eta^{\mu\nu},data/mathwriting-2024/train/aeef580f919bc3e7.bin,\eta^{p\sigma}\Lambda^{\mu}\rho\Lambda_=^{\nu=\eta^{\mu\nu},0.4
+q\ll1/200000,data/mathwriting-2024/train/6529ec8a82f5fdab.bin,q\ll1/20,0.4
+"\xi_{xx}+\xi_{yy}=P(\xi,\eta)",data/mathwriting-2024/train/62232c039b68429f.bin,"\xi_{x}+\xi=P(\xi,",0.4
+"\sum,\prod,\bigcup",data/mathwriting-2024/train/f31a9cfdb9eb42f9.bin,"\sum,\pi,U",0.4
+\nu Z.\phi\wedge[a]Z,data/mathwriting-2024/train/eeda71ab29feefa6.bin,\nuZ.\varphi\wedge[a]Z,0.4
+\{\eta(t)\}\subset Diff(M),data/mathwriting-2024/train/a4713c30f7aac478.bin,\{\eta(t)\}\subsetDif(M),0.4
+g=<cos(\theta)>,data/mathwriting-2024/train/aeca8420571afed5.bin,g=\langlecos(\theta)>,0.4
+q\ll1/200000,data/mathwriting-2024/train/41310a0e6e15586a.bin,q\ll1/20,0.4
+\frac{d}{dt}\frac{\partial R}{\partial\dot{\zeta}_{j}}=\frac{\partial R}{\partial\zeta_{j}},data/mathwriting-2024/train/79a031b1182aef21.bin,\frac{d\partial R}{\partialdt\dot{C_{i}=\frac{\partial R}{\partial G_{i},0.4
+\mu_{solid}^{\circ}=\mu_{solution}^{\circ},data/mathwriting-2024/train/add6ce0ba155223d.bin,\mu_{sild}^{0}=\mu_\mu_solh}^{0u},0.4
+g=<cos(\theta)>,data/mathwriting-2024/train/a9fed9b6b0e0ffb6.bin,g=\langlecos(\theta)>,0.4
+\vec{dR},data/mathwriting-2024/train/419e4dda0366299f.bin,d\vec{R},0.4
+<...>,data/mathwriting-2024/train/fdb8039ba703a773.bin,<.>,0.4
+q\ll1/200000,data/mathwriting-2024/train/523eba2fb8e47d65.bin,q\ll1/20,0.4
+\nabla^{2}=\frac{1}{R^{2}}\frac{\partial^{2}}{\partial\theta^{2}},data/mathwriting-2024/train/a4e4da10e3bab60b.bin,\nabla=\frac{12}{R^{2}\frac{\partial{\theta^{2},0.3939393939393939
+\hat{n}_{i}=b_{i}^{\dagger}b_{i},data/mathwriting-2024/train/b1d5e556aa1e0681.bin,\hat{n_{i}\hatb_{i}_{},0.391304347826087
+-\frac{8}{15}\leftarrow0.\overline{11000000},data/mathwriting-2024/train/c7402fb257825c49.bin,-\frac{8}{15}\leftarrow0.10,0.391304347826087
+\frac{1}{15}i\leftarrow0.\overline{00000011},data/mathwriting-2024/train/eb1804bc1ebf6b64.bin,\frac{1}{15}i\leftarrow\sqrt0.01},0.391304347826087
+(p\Vdash_{P}f\wedge p\Vdash_{P}g),data/mathwriting-2024/train/c514e5e3b1e69e90.bin,(p|H_{pf\wedge p|\vdash_{p}g),0.3888888888888889
+\begin{matrix}C&\longrightarrow&C\\ z&\mapsto&a+\omega z\end{matrix},data/mathwriting-2024/train/6b22b7be492e1423.bin,C\rightarrow&C\\ z\mapsto a+wz\end{matrix},0.3888888888888889
+A\cong{A^{*}}^{*},data/mathwriting-2024/train/485a642b72327b85.bin,A\congA^{*}{*},0.38461538461538464
+N_{P}\propto1/P^{\nu},data/mathwriting-2024/train/f05836a12abe99b8.bin,N_{p}\propto1/PV,0.38461538461538464
+\angle IOH<\frac{\pi}{6},data/mathwriting-2024/train/b3531e6ffafb46ea.bin,\angleIOH<\frac{\pi}{6},0.38461538461538464
+{\phi^{a}}^{\#}=\phi,data/mathwriting-2024/train/d44944f68ea89294.bin,\phi^{a\#}=\phi,0.38461538461538464
+A\models_{X}\vec{t_{1}}\perp_{\vec{t_{3}}}\vec{t_{2}},data/mathwriting-2024/train/f77d646b20c0d519.bin,A\models\times\vec{t}{1}\Delta\vec{t_{3}\vec{t}_{2},0.38235294117647056
+"r\in\{0,1\}^{\lfloor log^{2}n\rfloor}",data/mathwriting-2024/train/77ab672fcfce0f65.bin,"r\in\{0,1\}^{\lfloorlog2n\rfloor}",0.38095238095238093
+"h\in H_{1}\backslash\{w_{1,\beta_{1}}^{-1},1\}",data/mathwriting-2024/train/d9295c2f1cb95fa2.bin,"h\in H_{1}\backslash\{\omega{,}^{-1,\beta{1}^},1\}",0.3793103448275862
+\frac{e^{+\frac{m^{2}}{2\Phi^{2}}}}{\sqrt{2\pi}\Phi},data/mathwriting-2024/train/f420a81607ad129f.bin,\frac{e^{+\frac{h^{2}{2}{\sqrt{2\Phi{2},0.375
+\lambda\in\bigwedge^{k}V,data/mathwriting-2024/train/51f7af60e1cda591.bin,\lambda\in\Lambda\nu^{k},0.375
+\neg M\neg\underline{A},data/mathwriting-2024/train/2c350ab9cfff5a43.bin,\neg M\neg\underlineA},0.375
+f:\Omega\rightarrow\overline{\mathbb{R}},data/mathwriting-2024/train/44881f81c080cee6.bin,f:\Omega\rightarrow\mathbb{R},0.375
+R\overline{f}_{*}R\overline{g}^{!}\cong Rf^{!}Rg_{*},data/mathwriting-2024/train/152707edf5aa3a31.bin,R{R_{f_{*}R_{g-!\cong R_{f}^{!}Rg_{*},0.375
+x^{\prime}\wedge x,data/mathwriting-2024/train/ff258a7ef972b357.bin,x^{\prime}\wedgex,0.375
+"\sqrt{kn},k\in\mathbb{Z^{+}}",data/mathwriting-2024/train/15a33c13f26e825f.bin,"\sqrt{k_n},k}\inZ^{+}",0.375
+h_{1}\leftarrow g_{1}^{z_{1}}remP,data/mathwriting-2024/train/8d07ea320a614a23.bin,h_{1}\leftarrow q^{2{\prime}remP,0.375
+j^{(\frac{\kappa}{\varpi})[1-\sqrt{1-\frac{0\varpi^{0}t}{\kappa}}]},data/mathwriting-2024/train/20a2bd807819e856.bin,i^{(\frac{\kappa}{\varpi}){[c\sqrt{1\cdot\frac{1\varpi^{x}{\Upsilon},0.37142857142857144
+\lceil\frac{Health_{i}}{Dam_{noti}}\rceil,data/mathwriting-2024/train/0ba3617e0612c1a1.bin,\Gamma\frac{Helh_{i}{Datot}\rceil,0.37037037037037035
+k_{\perp}z_{k_{\perp}}\sim k_{||}B_{0},data/mathwriting-2024/train/72a21f1a62264590.bin,k\perpZ_{k_{\perp}\sim k|B_{0},0.37037037037037035
+\aleph_{0}+4\cdot\aleph_{0}=\aleph_{0},data/mathwriting-2024/train/1a5943759b524e95.bin,\aleph^{7+4\cdot\aleph^{X}=\aleph{\dagger_{0},0.3684210526315789
+||S\otimes T||\le||S||||T||,data/mathwriting-2024/train/e011ede447914328.bin,|S\otimes T|\le|S|T|,0.3684210526315789
+log:\mathbb{C}^{\times}\rightarrow\mathbb{C},data/mathwriting-2024/train/a7993276dc9fa131.bin,log:C^{*}\rightarrowC,0.36363636363636365
+R=\mathbb{Z}_{p^{r}},data/mathwriting-2024/train/0d79f5ed02175660.bin,R=\mathbb{Z} \rho^{r},0.36363636363636365
+x\in\bigcup_{n\ge1}\bigcap_{j\ge n}A_{n},data/mathwriting-2024/train/c11cb6eeea889e62.bin,"x\in\bigcup_{n,n}{,\gen}A_{n}",0.36363636363636365
+h\circ in=f\circ Fh,data/mathwriting-2024/train/b96eb6d9a5b9b6f8.bin,h\circin=f\circ Fh,0.36363636363636365
+2^{\aleph_{0}}=c,data/mathwriting-2024/train/55694babd05ab2e8.bin,2^{\aleph_{},0.36363636363636365
+"lim_{t\rightarrow+\infty}\varphi(t,\vartheta_{-t}\omega)",data/mathwriting-2024/train/4212db5cda076760.bin,"lim_{t\rightarrow+\infty}\varphit,u,t\omega)",0.36363636363636365
+s\models_{K}f_{2},data/mathwriting-2024/train/575c1a66184c7e7a.bin,s\models<f_{2},0.36363636363636365
+V_{N\backslash\{b_{i}\}}^{M\backslash\{t_{j}\}},data/mathwriting-2024/train/39607755fae16a2a.bin,V\fracM\backslash\{t_{j}\}}{N\backslash\{b_{i}\}},0.36
+|\frac{A_{\overline{f}}}{\overline{A}_{f}}|\ne1,data/mathwriting-2024/train/8d2b7bae3ef8d96d.bin,|\frac{A_{f}{A{f}|\ne1,0.36
+"R[t]\rightarrow S,f\mapsto\overline{f}",data/mathwriting-2024/train/1b35365183fc20d2.bin,"R[t]\rightarrow S,f\mapstof",0.35714285714285715
+(\exists x\phi)\rightarrow\exists y\psi(1),data/mathwriting-2024/train/357090bc9bca9b35.bin,(\exists x\phi)\rightarrowEy\psi(),0.35714285714285715
+\mathbb{HP}^{2}/U(1),data/mathwriting-2024/train/b0aec37174960bb4.bin,\oplusU\Phi^{2}/U(1),0.35714285714285715
+F(\emptyset)=\frac{(T_{1}-T_{0})}{T_{0}},data/mathwriting-2024/train/879c83ede7852ef6.bin,F(0)=\frac{(T_{0}{T_{0},0.35714285714285715
+\cdot\cdot\cdot\exists\delta\forall x\forall y\cdot\cdot\cdot,data/mathwriting-2024/train/8dcb5b67ce423369.bin,.\exists\delta\forall x\forall y.\cdot.,0.35714285714285715
+x_{i}\in\chi\subset R^{p},data/mathwriting-2024/train/19f6aaa63ed8caf6.bin,x_{i}\inXeR^{p},0.35714285714285715
+\frac{dy}{ds}=sin\varphi=\frac{\lambda_{0}gp}{T},data/mathwriting-2024/train/6250b512b0e22371.bin,\frac{}{ds}sin\varphi=\frac{\lambda_}{T\lambda_{0}gpT},0.35714285714285715
+\mathbb{W}_{n}\rightarrow\underline{O}^{n},data/mathwriting-2024/train/eaedcc789c7fa557.bin,\mathbb{W}_{n}\rightarrowO^{n},0.35714285714285715
+"R[t]\rightarrow S,f\mapsto\overline{f}",data/mathwriting-2024/train/c59e25fa82040330.bin,"R[t]\rightarrow S,f\mapstof",0.35714285714285715
+r_{c}=(\frac{2\pi D_{\odot}^{2}}{\mu_{0}v\dot{M}})^{\frac{1}{4}},data/mathwriting-2024/train/7f81ee1ead33fdea.bin,r_{c}=(\frac{2\pi D^{2}{\mu_{0\nu\mu})^{1/4},0.35555555555555557
+\frac{1}{|G|}\sum_{g\in G}\chi_{V\otimes_{S}V}(g),data/mathwriting-2024/train/64adc2c2b6fdbdca.bin,\frac{1}{|}\sum_{G}\inG}XV\otimes_{s}V(g)},0.3548387096774194
+2^{2^{2^{\aleph_{1}}}},data/mathwriting-2024/train/22693a92b90cbc90.bin,2^{2^{2^{\aleph},0.35294117647058826
+2^{2^{2^{\aleph_{1}}}},data/mathwriting-2024/train/300f2ccf67965969.bin,2^{2^{2^{\aleph},0.35294117647058826
+S=\frac{\vec{w}^{T}\Sigma_{b}\vec{w}}{\vec{w}^{T}\Sigma\vec{w}},data/mathwriting-2024/train/01ecdd8d14416020.bin,S=\frac{\vec{w}T\Sigman\vec{w}{w}^{T}2\vec{w},0.35135135135135137
+T_{2}\circ T_{1}^{+}\ne T_{2},data/mathwriting-2024/train/667a8b1865f1d174.bin,\tau_{20}\tau_{1}^{+}\modelsT_{2},0.34782608695652173
+R^{2}=c^{\top}R_{xx}^{-1}c,data/mathwriting-2024/train/d89a87f3e9970d32.bin,R^{2}=C^{T}R^{-1}C,0.34782608695652173
+\alpha=-\frac{log\frac{\Upsilon_{\varsigma_{0}}}{\Upsilon_{\varsigma_{2}}}}{log\frac{\varsigma_{0}}{\varsigma_{2}}},data/mathwriting-2024/train/a39781bf5402560f.bin,\alpha=-\frac{log\frac{\varsigma_{0}{\varsigma_{2}log\frac{\gamma_{\varsigma{0}{\varsigma_{2},0.34615384615384615
+*(\vec{v}_{1}\wedge...\wedge\vec{v}_{n-1}),data/mathwriting-2024/train/180f9abda3b60027.bin,*v_{1}\wedge.\Delta\vec{v_{n}-1}),0.34615384615384615
+MSD\approx t^{\frac{1-\gamma}{2/(1+a)-\gamma}},data/mathwriting-2024/train/24ff11f6c1aed031.bin,MSD\approx\frac{1-\gamma}{t^{2/(1+a)-r},0.34615384615384615
+Z_{p^{e_{1}}}\oplus\cdot\cdot\cdot\oplus Z_{p^{e_{n}}},data/mathwriting-2024/train/943f935d1821cd35.bin,Z_{p}e_{1}\oplus.\oplus Z_{p}^e_{n},0.34375
+a_{i}\cong\frac{\rho_{it}}{\sqrt{1-\rho_{it}^{2}}},data/mathwriting-2024/train/3ca07bb6f0f3b81c.bin,a_{i^{}\cong\frac{p_{it}{\sqrt{1-p_{^{2}c{2},0.34375
+\alpha^{-1}(G_{r}^{\pm})=G_{r\mp\frac{1}{2}}^{\pm},data/mathwriting-2024/train/fec85c8ea56e5082.bin,2^{-1}(G_{r}^{\pm})=G{I2}^{\pm{}{2},0.34285714285714286
+\nabla v=\frac{1}{h_{i}^{2}}\frac{\partial v}{\partial q^{i}}\otimes b_{i},data/mathwriting-2024/train/d220456f77ca6903.bin,\nabla_{v}=\frac{12v}{h_{i}^{2}\partial q^{i}\otimes b_{i},0.34146341463414637
+e^{-\frac{3}{5}(\frac{log\frac{x}{x_{4}}}{log\upsilon})^{5}},data/mathwriting-2024/train/71e940785fdb31eb.bin,e^{-\frac{3}{5}(\frac{cs\frac{x}{x_{4})5}{yL},0.34146341463414637
+"\underline{a}_{1},...,\underline{a}_{r}\in\mathbb{R}^{n}",data/mathwriting-2024/train/3dd6357e354bc649.bin,"a_{a1},.,a_{r}\in\mathbb{R}^{n}",0.3333333333333333
+\neg\neg\varphi,data/mathwriting-2024/train/f4e067f0f9819fef.bin,\neg\varphi,0.3333333333333333
+\neg\neg\varphi,data/mathwriting-2024/train/b13fad9c80d4c2d0.bin,\neg\varphi,0.3333333333333333
+\%r=100\frac{r}{f+r},data/mathwriting-2024/train/1727be91f41effa9.bin,\%_{0}r=10\frac{r}{f+r},0.3333333333333333
+\langle\Phi||\Psi\rangle,data/mathwriting-2024/train/49db66061aefc2c5.bin,\langle\Psi|\Psi\rangle,0.3333333333333333
+Ai(x)\sim\frac{e^{-\frac{2}{3}x^{3/2}}}{2\sqrt{\pi}x^{1/4}},data/mathwriting-2024/train/0cfb2413b90e7bf9.bin,A_{i}(x)\sim\frac{e^{-\frac{2}{3}x^{3/2}{2\sqrtx^{\prime},0.3333333333333333
+\neg\neg\varphi,data/mathwriting-2024/train/ffbf0b529c9cdb34.bin,\neg\varphi,0.3333333333333333
+\mathbb{C}P^{1},data/mathwriting-2024/train/ca991b08e98a2ee9.bin,CP^{-1},0.3333333333333333
+N\models\varphi(\underline{\#(\theta)}),data/mathwriting-2024/train/bac9c396fd53e4a4.bin,N\models\varphi(\#(\theta),0.3333333333333333
+\underline{X}:U\rightarrow\mathbb{R}^{n},data/mathwriting-2024/train/56656bd70e4d3d80.bin,\underlineX:U\rightarrow\mathbb{R}^{n},0.3333333333333333
+SV=\mathbb{R}g\wedge\bigcirc g,data/mathwriting-2024/train/d9dd99b62f54f05c.bin,SV=Rg\wedgeO g,0.3333333333333333
+W^{p}\simeq W_{p}\\ W,data/mathwriting-2024/train/87c0f1cecba4f509.bin,W{Wp}\simeq W_{p},0.3333333333333333
+I=\iint J\cdot dS,data/mathwriting-2024/train/a3015a858e280daa.bin,I=\iintJ\cdot dS,0.3333333333333333
+\tilde{Y}=\bigcap_{i=1}^{n}\tilde{X}_{i},data/mathwriting-2024/train/804038f4129152d0.bin,\tilde{Y}=\tilde_{n}\cap_{i}{X}_{i},0.3333333333333333
+f=\frac{\Sigma_{a}^{F}}{\Sigma_{a}},data/mathwriting-2024/train/f239b8c0dfd651bc.bin,f=\frac{\sum_{\alpha}F}{\Sigma_{\alpha},0.3333333333333333
+so(5)\cong sp(2),data/mathwriting-2024/train/1254525fef488d6e.bin,s\infty(5)\cong\zeta(2),0.3333333333333333
+\lceil\frac{Health_{i}}{Dam_{noti}}\rceil,data/mathwriting-2024/train/1ee8f1b3fdf484c6.bin,[\frac{Health_{1}{Dan_{mt}],0.3333333333333333
+\epsilon_{0}=\Theta^{\Theta^{\Theta^{+^{+^{+}}}}},data/mathwriting-2024/train/5c88f2cf926b48c8.bin,\epsilon_{0=\Theta^{\Theta^{a^{+^{+},0.3333333333333333
+(P\wedge Q)\vdash P,data/mathwriting-2024/train/07c74b6f657c9f0d.bin,(P\wedgeQ)\vdash P,0.3333333333333333
+\frac{-20\%}{10\%}=-2,data/mathwriting-2024/train/653dfb0a3ac1b8d1.bin,-\frac{209}{1090}=-2,0.3333333333333333
+f=\frac{\Sigma_{a}^{F}}{\Sigma_{a}},data/mathwriting-2024/train/f4c20949a5b82f5b.bin,f=\frac{\Sigma_{af}\Sigma_{a},0.3333333333333333
+\Sigma_{XX}^{-1}\Sigma_{XY}b,data/mathwriting-2024/train/bffe5e13a6334667.bin,\Sigma_{xX}^{-1}\Sigma X^{-Yb,0.3333333333333333
+\neg\neg P\&\neg\neg R,data/mathwriting-2024/train/c95bbbd4d2d30098.bin,\neg P\varphi\neg R,0.3333333333333333
+\sqrt{n}\in\mathbb{Z},data/mathwriting-2024/train/567f9d4722a9d825.bin,\sqrt{n}\notin\mathbb{Z}z,0.3333333333333333
+\lceil log_{m}(n+1)\rceil,data/mathwriting-2024/train/71970a22caa81253.bin,\lceillog_{m}(n+1)\rceil,0.3333333333333333
+\mathbb{C}P^{1},data/mathwriting-2024/train/00895deb5a227920.bin,CP^{\prime},0.3333333333333333
+p\Vdash_{P}(\forall x)f,data/mathwriting-2024/train/d431f10f2fa30017.bin,pH_p(\forall x)f,0.3333333333333333
+x\ne=\prod_{p\le x}p,data/mathwriting-2024/train/3b077599f978fc24.bin,x\#=\prod_{p\lex}p,0.3333333333333333
+E(y;x),data/mathwriting-2024/train/54be0649bd6ad4a8.bin,E[y;x],0.3333333333333333
+d:\Lambda\rightarrow\mathbb{N}^{k},data/mathwriting-2024/train/3ee31c7ee5d260da.bin,di\Lambda\rightarrow N^{k},0.3333333333333333
+\Xi:=[\xi_{1}...\xi_{N}],data/mathwriting-2024/train/5c93964bd3abfd67.bin,\Xi\equiv[E._{1}.\xi_{N}],0.3333333333333333
+\alpha=-\frac{log\frac{\Upsilon_{\varsigma_{0}}}{\Upsilon_{\varsigma_{2}}}}{log\frac{\varsigma_{0}}{\varsigma_{2}}},data/mathwriting-2024/train/1a720cd0be8565af.bin,\alpha=\frac{\cdotlog\frac{n\varsigma_{\varsigma_{0}{\varsigma_{2}{log\frac{\varsigma_{0}{\varsigma_{2},0.3269230769230769
+\propto\frac{p^{\alpha-1}e^{-\beta q}}{\Gamma(\alpha)^{r}\beta^{-\alpha s}},data/mathwriting-2024/train/a4f7c66d96d1ee39.bin,\alpha\frac{p^{\alpha-1}e^{-\betaq}{\Gamma(\alpha)^{r\beta-\alphas},0.32432432432432434
+"\sigma_{K}:l\mapsto sup_{x\in K}\langle l,x\rangle",data/mathwriting-2024/train/440c600eecc1ff06.bin,"\sigma_{k}:L1\rightarrow sup_{x\in k}\langleL,x\rangle",0.32
+\Theta_{00}=\frac{4\lambda}{\pi D_{00}},data/mathwriting-2024/train/da32aa4a10fdbd9f.bin,\theta_0\frac{4\lambda}{\pi D_{0},0.3181818181818182
+\frac{2}{15}\leftarrow0.\overline{00001100},data/mathwriting-2024/train/202559d0ad0308cf.bin,\frac{2}{15}\leftarrow\overline0.\overline010},0.3181818181818182
+\Theta_{00}=\frac{4\lambda}{\pi D_{00}},data/mathwriting-2024/train/dbb64db0a088254d.bin,\Theta0\frac{4\lambda}{\pi D_{0},0.3181818181818182
+?=\sqrt{1+2\sqrt{1+3\sqrt{1+\cdot\cdot\cdot}}},data/mathwriting-2024/train/d281405a37c348f0.bin,?=1+2{\sqrt{1+3\sqrt{1+\cdot},0.3181818181818182
+"\mathbb{X}=(x_{1},...,x_{N})",data/mathwriting-2024/train/a2759c8d7866c7eb.bin,"\langle{=(X_{1},.,X_{N})",0.3157894736842105
+\lambda_{1}+\cdot\cdot\cdot+\lambda_{n}\in Z?,data/mathwriting-2024/train/4d1934324f14420f.bin,\lambda+\cdot.+\lambda_{n}\in Z?,0.3157894736842105
+x\in{N^{\prime}}_{k}(x)\subseteq X,data/mathwriting-2024/train/4957c8b18e63a216.bin,x\in N{}^{\prime}(x)\subseteq X,0.3157894736842105
+\bigcap_{k=1}^{N}\pi_{i_{k}}^{-1}(A_{i_{k}})\ne\emptyset,data/mathwriting-2024/train/075e853191de7554.bin,\bigcap_{k=1}\pi_k}^{-1}(A_{ik})\ne\emptyset,0.3157894736842105
+|{\Psi_{p}^{1}}^{(\pm)}\rangle,data/mathwriting-2024/train/9e85ba62f17abedd.bin,|\Psi{p}^{1(\pm)}\rangle,0.3157894736842105
+X\backslash C\cup\{\omega\}\in\tau_{\omega X},data/mathwriting-2024/train/de601fe63a9a2f60.bin,X\backslashC\cup\{\omega\}\in\tau_{\omega}X,0.3125
+"\sqrt{kn},k\in\mathbb{Z^{+}}",data/mathwriting-2024/train/19428081ed568c6f.bin,"\sqrt{kn},k\inZ^{+}",0.3125
+X\mapsto\tau^{\le0}:=X^{\le0},data/mathwriting-2024/train/a966eba68936288b.bin,X\mapsto T^{\le0}:=X\le0,0.3125
+Z_{p^{e_{1}}}\oplus\cdot\cdot\cdot\oplus Z_{p^{e_{n}}},data/mathwriting-2024/train/250fb868c2965157.bin,Z_{p}e_{1}\oplus\cdot\oplus Z_{p}e_{n},0.3125
+S(f)=\mathbb{E}|X(f)|^{2},data/mathwriting-2024/train/fb4b5a374d1b0856.bin,S(f)=\mathbb{E}|X(f(x^}),0.3125
+2^{\lceil log(i)\rceil}\ge i,data/mathwriting-2024/train/83cf8fc28b96aa2f.bin,2^{\lceillog(i)\rceil}\ge i,0.3125
+(\frac{11}{8}\div\frac{48}{35}=\frac{385}{384}),data/mathwriting-2024/train/0b293a809f3f902b.bin,(\frac{1}{8}\frac{7}{1}\frac{48{38}=\frac{385}{384}),0.3125
+\frac{GVM}{GVD}\gg TBP,data/mathwriting-2024/train/08cc1fa021c3d792.bin,\frac{GVM}{GVD}\ggTBD,0.3125
+P(O_{P^{1}}\oplus O_{P^{1}}(n)),data/mathwriting-2024/train/b3ff2133becf000e.bin,P(O_{p1}\oplus O_{p{1}(n),0.3076923076923077
+\mathbb{\hat{C}}=\mathbb{C}\cup\{\infty\},data/mathwriting-2024/train/e1596c28732b8bd7.bin,\hat{C}=C\cup\{\infty\},0.3076923076923077
+\mathbb{\hat{C}}=\mathbb{C}\cup\{\infty\},data/mathwriting-2024/train/8bb28e18fb13f280.bin,\hat{C}=C\cup\{\infty\},0.3076923076923077
+\vec{v}=\|\mu\|\cdot\vec{E},data/mathwriting-2024/train/4d90c3a57da630a4.bin,\vec{v}=|u|-\vec{E},0.3076923076923077
+\bigcup_{t\in T}[T]=X,data/mathwriting-2024/train/c057d6d96e0284a1.bin,\bigcup_{t\inT}[T]=x,0.3076923076923077
+F(-)\cong P\otimes_{R}-,data/mathwriting-2024/train/abf3f497d74d69ce.bin,F(-)\cong P\otimes {R^{-},0.3076923076923077
+\mathbb{\hat{C}}=\mathbb{C}\cup\{\infty\},data/mathwriting-2024/train/e852ae6e365fd505.bin,\hat{}=\mathbb{C}\cup\{\infty\},0.3076923076923077
+n_{1}\odot n_{2}\odot\cdot\cdot\cdot\odot n_{k},data/mathwriting-2024/train/a759345582310012.bin,n_{1}On_{2}\cdot\odot\eta_{k},0.30434782608695654
+"\overline{s}\in\alpha,t\notin\gamma",data/mathwriting-2024/train/f5ec8c98d01d81cb.bin,"s\in\alpha,t\notin\gamma",0.3
+\int_{\mathbb{R}}\frac{|\hat{\psi}(k)|^{2}}{|k|}dk<\infty,data/mathwriting-2024/train/6c5ba5c6038371cc.bin,\int_{R}\frac|k|\hat\psi}(k)^{2}k}dk<\infty,0.3
+0\notin S^{n-1},data/mathwriting-2024/train/47fa7cf47d22c8d5.bin,0\notinS^{n-1},0.3
+(\mathbb{O}\otimes\mathbb{O})P^{2},data/mathwriting-2024/train/cfd1147290b46ef0.bin,(\otimesO)P^{2},0.3
+|\Psi_{0}\rangle=(1+C)|\Phi_{0}\rangle,data/mathwriting-2024/train/f42566e31b393158.bin,|\psi_{0}\rangle=1+C\phi_{0}\rangle),0.3
+D_{S}(D_{S}-x)=\triangle_{S},data/mathwriting-2024/train/196ba64992008c3e.bin,D_{s}(D_{S}-x)=\Delta s,0.3
+F|_{U_{i}}\simeq O_{U_{i}}^{\oplus n},data/mathwriting-2024/train/df813c46117e8c6e.bin,F|U_{i}\simeqO_{u_{i}^{\oplus n},0.2962962962962963
+\%p_{i}=\frac{n_{p}wt_{i}}{\sum_{j}wt_{j}},data/mathwriting-2024/train/4c0578f87efe9df9.bin,qp_{i}=\frac{n_{t}{\sum_{j}w}t_{j},0.29411764705882354
+\mathbb{Z}_{2}\times\mathbb{Z}_{2}\times\mathbb{D}_{4},data/mathwriting-2024/train/825ec2812951845a.bin,Z_{2}\times Z_{2}\times D_{4},0.29411764705882354
+C\triangleq\int_{\Delta}\rho xx^{T}dA,data/mathwriting-2024/train/49894a9e710b0308.bin,C\Rightarrow\int_{\Delta}\rhox^{T}dA,0.29411764705882354
+\Theta=\frac{1}{\sqrt{\sum_{\mu=1}^{k}\frac{g^{6}}{b_{\mu}^{6}}}},data/mathwriting-2024/train/617d78343f42f6f6.bin,\theta=\frac{1}{\sqrt{\sum_{=1}^{k\frac{y^{6}{b^{4}6},0.2926829268292683
+a^{-\frac{1}{3}(\frac{log\frac{x}{x_{8}}}{log\Xi})^{3}},data/mathwriting-2024/train/8d3816650622fa1e.bin,a^{-\frac{1}{3}(\frac{loglog\frac{x}{x_{8})^{3},0.2926829268292683
+\frac{\|A^{-1}e\|/\|A^{-1}b\|}{\|e\|/\|b\|},data/mathwriting-2024/train/8ce21a2957fddaae.bin,\frac{|A^{1}e|/|A^{-1}b|}{|\|e|\|/|b\||},0.2903225806451613
+\phi^{0}=A(\begin{matrix}\Psi_{1}^{0}\\ \Psi_{2}^{0}\end{matrix}),data/mathwriting-2024/train/0b0ce45a2e7296c1.bin,\phi^{0}=A(\begin{matrix}\Psi2}^{0_2}^{0}),0.2903225806451613
+S_{p}\le\emptyset,data/mathwriting-2024/train/ddcddf191c0e7965.bin,s_{p}\le0,0.2857142857142857
+e_{\pm}\times e_{\mp}=\pm ie_{0},data/mathwriting-2024/train/5e2c7feb8ea203aa.bin,e_{\pm\times}e_{\mp}=\pm1\zeta_{},0.2857142857142857
+\|v\|_{0},data/mathwriting-2024/train/04140bd8771da9ef.bin,\|V|_{0},0.2857142857142857
+\Rightarrow x=e^{W(lnz)},data/mathwriting-2024/train/a4472c3a4cde9cde.bin,\Rightarrow x=e^{w}(ln2),0.2857142857142857
+\Phi=\iint I_{\nu}d\nu d\Omega,data/mathwriting-2024/train/1d2361682057e734.bin,\Phi=\int I_{\nu}d\nud\Omega,0.2857142857142857
+C\subseteq\sum^{n},data/mathwriting-2024/train/922c89f8244e44c6.bin,c\subseteq\Sigma^{n},0.2857142857142857
+\mathbb{W}_{n}\rightarrow\underline{O}^{n},data/mathwriting-2024/train/7c0396452e9742b1.bin,\mathbb{W}_{n}\rightarrow\underlineO^{n},0.2857142857142857
+C_{m}=Z_{m}\bullet f,data/mathwriting-2024/train/7deda4879a98efc3.bin,C_{m}=2_{m}\cdotf,0.2857142857142857
+T^{*}M|_{U}\simeq U\times R^{n},data/mathwriting-2024/train/bf8b85aa8cab4a4b.bin,T^{*}M|U\simeqU\times R^{n},0.2857142857142857
+\|m^{*}\|,data/mathwriting-2024/train/025327df72a7fb24.bin,|m^{*}|,0.2857142857142857
+\mathbb{W}_{n}\rightarrow\underline{O}^{n},data/mathwriting-2024/train/63aba28620a679f3.bin,\mathbb{W}_{n}\rightarrow\underlineO^{n},0.2857142857142857
+\mathbb{A}\dot{\xi}\le0,data/mathwriting-2024/train/3eb5e64aa1fb264c.bin,A\dot{\zeta}\le0,0.2857142857142857
+(\Omega\backslash\sigma(\Omega))\cap\mathbb{H}^{-},data/mathwriting-2024/train/ae91e03a40d6df7b.bin,(\Omega\rfloor\sigma(\Omega)\capH^{-},0.2857142857142857
+\bigcap_{i\in I}C_{i}\subseteq cl(\bigcap_{i\in I}C_{i}),data/mathwriting-2024/train/9862bea22c2ce9a5.bin,\bigcap_{i\in I}C_{i}\subseteq cl(\capC_{i})_{i\in I},0.28125
+\Rightarrow\frac{p(y|H2)}{p(y|H1)}\ge\frac{\pi_{1}}{\pi_{2}},data/mathwriting-2024/train/52e059be65c8915b.bin,\Rightarrow\frac{p(y|H_{2})}{(y|H_{1})\ge\frac{\pi_{1}{\pi_{2},0.2777777777777778
+(p\Vdash_{P}f\wedge p\Vdash_{P}g),data/mathwriting-2024/train/a5b7ca97bb4b8dca.bin,(pH_{p}f\wedge p|\vdash_{p}g),0.2777777777777778
+\cap_{i\in\underline{m}\backslash A}A_{i},data/mathwriting-2024/train/317956abfca6f072.bin,\cap_{i\in_{M\backslash A_{i},0.2777777777777778
+"\frac{\Gamma\vdash A[t/x],\Delta}{\Gamma\vdash\exists xA,\Delta}(\exists R)",data/mathwriting-2024/train/1d346274c7f845b3.bin,"\frac{\Gamma\vdash A[t/x],}R)\Gamma\vdash\exists xA,\Delta)",0.27586206896551724
+"\frac{\Gamma\vdash A[t/x],\Delta}{\Gamma\vdash\exists xA,\Delta}(\exists R)",data/mathwriting-2024/train/14b9277ac3a276d1.bin,"\frac{\Gamma\vdash A[/x],\Delta(\existsR\Gamma\vdash\exists xA,\Delta)",0.27586206896551724
+x=\frac{4}{\sqrt{4+\frac{v^{2}}{c^{2}}}}\upsilon,data/mathwriting-2024/train/13fff30bf893c4d9.bin,x=\frac{4{4+\frac{v^{2}{c^{2}v,0.27586206896551724
+?=\sqrt{1+2\sqrt{1+3\sqrt{1+\cdot\cdot\cdot}}},data/mathwriting-2024/train/241de3db4c181285.bin,?=\sqrt{1+2\sqrt{1+31+\cdot},0.2727272727272727
+\omega C\gg\frac{1}{R},data/mathwriting-2024/train/f7746eef1060b092.bin,\omegaC\gg\frac{1}{R},0.2727272727272727
+\Psi(t)=\Psi(t+T),data/mathwriting-2024/train/271474df6cfcf7fe.bin,\psi(t)=\psi(t+T,0.2727272727272727
+E\cap\overline{E}=\Delta\otimes C,data/mathwriting-2024/train/aaa1d14b42cb4739.bin,E\cap\overline{E}=\Delta\otimesC,0.2727272727272727
+R=\mathbb{Z}_{p^{r}},data/mathwriting-2024/train/bc0a44c9fff4ae85.bin,R=\mathbb{Z}_{pr},0.2727272727272727
+?=\sqrt{1+2\sqrt{1+3\sqrt{1+\cdot\cdot\cdot}}},data/mathwriting-2024/train/55845c8bcef6151d.bin,?={1+2\sqrt1+3\sqrt{1+\cdot},0.2727272727272727
+root\simeq a-\frac{a^{2}-x}{2a},data/mathwriting-2024/train/b74b46bbc343d8de.bin,rot\simeq\alpha-\frac{\alpha^{2}-Y}{2\alpha},0.2727272727272727
+\Rightarrow\lambda_{i}=\frac{|Av_{i}|^{2}}{|v_{i}|^{2}}\ge0,data/mathwriting-2024/train/dbdfbc62dc28f021.bin,\Rightarrow\lambda_{i}=\frac{|v{v{}{|v_{i}|^{2}\ge0},0.2702702702702703
+f^{\#}(\delta_{p}^{v})=\delta_{f(p)}^{df_{p}(v)},data/mathwriting-2024/train/d78018eee21d0525.bin,f^{\#}(\delta_{p}^{v})=\deltap}^{\deltaf_{p}(v),0.2702702702702703
+\forall xA(x)\Rightarrow A(a/x),data/mathwriting-2024/train/bd67e8ade53edb1e.bin,\forall xA(x)\RightarrowA(v/x),0.26666666666666666
+||v||=\sqrt{v^{\top}v},data/mathwriting-2024/train/4c1ae8a97a217c24.bin,|v|-\sqrt{v^{\top}u},0.26666666666666666
+r_{c}=(\frac{2\pi D_{\odot}^{2}}{\mu_{0}v\dot{M}})^{\frac{1}{4}},data/mathwriting-2024/train/6c471ae2552ef9f0.bin,r_{c}=(\frac{2\pi D_{\odot}^{2}{\mu_{0\nuM})^{1/4},0.26666666666666666
+"Aut(\overline{\mathbb{F}_{p}},f)",data/mathwriting-2024/train/8d261b11517a7ca2.bin,"A(\overline{_{p},f)",0.26666666666666666
+\#(n)\sim n^{k_{0}},data/mathwriting-2024/train/f4d5fa3cf9fef3c1.bin,\#(n)\simn^{k_{0},0.26666666666666666
+lim_{t\rightarrow\infty}\frac{1}{t}X_{t}=\frac{1}{\mathbb{E}S_{1}},data/mathwriting-2024/train/5947ed9f4bb227f4.bin,lim{\frac{1}{t}X_{t\rightarrow\infty}=\frac{1}{ES_{1},0.2647058823529412
+\Delta G=RTln\frac{K_{d}}{c^{\ominus}},data/mathwriting-2024/train/1e8b181d8b760942.bin,\Delta G=RTln\frac{kd}{c^{\theta},0.2608695652173913
+\triangle=\sum_{i=1}^{m}\nabla_{E_{i}}\nabla_{E_{i}},data/mathwriting-2024/train/685ebc315e1b23db.bin,\Delta=\sum_{i=1}^{m}\nabla \epsilon_{i}\nabla E_{i},0.25806451612903225
+1\%=\frac{1}{100},data/mathwriting-2024/train/475d0f45a3ac0528.bin,1\%0}=\frac{1}{10},0.25
+\rho\mu\gamma\angle^{\prime},data/mathwriting-2024/train/b417e8c73545cba6.bin,\rho\mu\gammaL^{\prime},0.25
+"F^{-}=F\backslash\{\langle x_{0},\emptyset\rangle\}",data/mathwriting-2024/train/f2da76efc6e37620.bin,"F^{-}=F\{\langlex_{0},\phi\rangle\}",0.25
+max_{y\in R^{m^{\prime}}}b^{\top}y,data/mathwriting-2024/train/a010bccf07ec9357.bin,max_{y\in R^{m^{\prime}bTy},0.25
+"x,y\in\mathbb{Z}+\mathbb{Z}\sqrt{10}",data/mathwriting-2024/train/91d8aba64e94b7b3.bin,"x,y\inZ+z\sqrt{10}",0.25
+\int\int\int_{\partial V}\bigcirc D\cdot dA,data/mathwriting-2024/train/0cb9958d4b394570.bin,\int_{\partial V}\circ P\cdot dA,0.25
+\cap W=\cap S\in W^{S}=\emptyset,data/mathwriting-2024/train/bb939f7850c49e9f.bin,\capW=\cap_ S\in W^{S}=\emptyset,0.25
+B=\frac{1}{c}\oint\frac{Idl\times\hat{r}}{r^{2}},data/mathwriting-2024/train/85561093b6a7607f.bin,B=\frac{1}{c}\oint{r\frac{|d|\times\hat{v}{r^{2},0.25
+d(\mathbb{P}),data/mathwriting-2024/train/f03c6c79a1823f38.bin,\partial(\mathbb{P}),0.25
+\Psi_{\alpha}^{\pm}=\Omega(\mp\infty)\Phi_{\alpha},data/mathwriting-2024/train/ff29b8e87bf5308b.bin,\Psi_\alpha}{=\Omega(\mp\infty)\Phi_{\alpha,0.25
+\oint_{\partial V_{m}}Fds=0,data/mathwriting-2024/train/71f105a83e14afe3.bin,\oint_{\partial m}Fds=0,0.25
+C\approx\frac{\epsilon A}{d};A\gg d^{2},data/mathwriting-2024/train/1ad9b3543c02b3b3.bin,"C\approx\frac{\epsilonA}{d},A> d^{2}",0.25
+\overline{S_{n}}=a\mathbb{I}\{S_{n}>a\},data/mathwriting-2024/train/8cb46687dd181935.bin,\overline{S_{n}=a\mathbb{I}\{S_{}^{\prime}>a\},0.25
+"\subset C[0,1]:\mathbb{Q}\mapsto\mathbb{Q}",data/mathwriting-2024/train/1f79c1e2f2d294f7.bin,"\subset C[0,1]:Q\mapsto Q",0.25
+"X=\bigoplus_{j\in1,...,n}X_{j}",data/mathwriting-2024/train/35e98e53daad3c9a.bin,"X=\oplus_{j\in{1,.,nX_{j}",0.25
+\begin{matrix}\bullet&\bullet\\ \bullet&\bullet\\ \bullet&\bullet\end{matrix}3\times2=6,data/mathwriting-2024/train/7cdf1e45e61a54c2.bin,\begin{matrix}&\bullet\\ \bullet&\\ \bullet&3x2=6,0.25
+\frac{L_{V_{*}}}{L_{V_{\odot}}}=10^{0.4(M_{V_{\odot}}-M_{V_{*}})},data/mathwriting-2024/train/305683d6318b127c.bin,\frac{L_{V_{*}{L{V_{\odot}=10^{04}(MV_{\odot}-MV_{*})},0.24528301886792453
+r_{c}=(\frac{2\pi D_{\odot}^{2}}{\mu_{0}v\dot{M}})^{\frac{1}{4}},data/mathwriting-2024/train/89d205bcdc8cb3f0.bin,\gamma_{c}=(\frac{2\pi\cdot D_{}^{2}{\mu_{0\nuM})^{\frac{1}{4},0.24444444444444444
+"N=rol(\bigoplus_{j=1}^{d}S_{j},u)",data/mathwriting-2024/train/da3ff90563f5d243.bin,N=rol(\Theta_{=1}^{d}S_{JU}),0.24
+a_{i}=\frac{p_{i}}{p^{\ominus}},data/mathwriting-2024/train/6438b2675878a8f2.bin,a_{i}=\frac{p_{i}{p\Theta},0.23809523809523808
+2.9\cdot10^{-28}\%,data/mathwriting-2024/train/427f43ab17a3f85b.bin,2\cdot9\cdot10^{-28/,0.23076923076923078
+R_{CF}\gg R_{P},data/mathwriting-2024/train/f5f6a3d42f350dba.bin,R_CF\gg R_{p},0.23076923076923078
+u\Vdash A[e(x\rightarrow a)],data/mathwriting-2024/train/9c3a27378e92c31d.bin,u\vdashA[e(x\rightarrow a)],0.23076923076923078
+f^{0}(\perp)=\perp\sqsubseteq k,data/mathwriting-2024/train/3d802e7ef319b335.bin,f^{0}(\perp)=\perp {*,0.23076923076923078
+rcot\frac{\angle A}{2},data/mathwriting-2024/train/9c94d4c646e50160.bin,rcot\frac{\angleA}{2},0.23076923076923078
+"\lambda_{1},\lambda_{2}\in\mathbb{D}",data/mathwriting-2024/train/2a4765e5d77ab1e6.bin,\lambda_{1}\lambda_{2}\inD,0.23076923076923078
+\alpha[f]\longrightarrow\alpha[f^{\prime}],data/mathwriting-2024/train/911758a413811973.bin,\alpha[f]\rightarrow\alpha[f^{\prime]},0.23076923076923078
+0.44\angle-116^{\circ},data/mathwriting-2024/train/3516c8c0c723c944.bin,0.4L-16^{\circ},0.23076923076923078
+x=\overline{\varphi(z)}\cdot z/{\|z\|}^{2},data/mathwriting-2024/train/bf29a8353f63f7be.bin,x=\overline{\varphi(z)}\cdot z|z|^{2},0.22727272727272727
+\kappa_{n}=\frac{v^{\top}H_{F}v}{||gradF||},data/mathwriting-2024/train/247a6cd4822a5dc6.bin,K_{n}=\frac{V^{T}H_{F}V}{|grodF|},0.22580645161290322
+\pi:G\longrightarrow B(H),data/mathwriting-2024/train/cc9cfbff37a1d33e.bin,\pi:G\rightarrow B(7H),0.2222222222222222
+A\triangle B=B\triangle A,data/mathwriting-2024/train/55093798d7c2e263.bin,A\Delta B=B\Delta A,0.2222222222222222
+\mathbb{P}=\frac{1}{2}(\nabla u+(\nabla u)^{T})-p\mathbb{I},data/mathwriting-2024/train/063d349c0669ae65.bin,P=\frac{1}{2}(\nabla+(\nabla\mu)^{T})-pi,0.2222222222222222
+"\mathbb{Q}[Y_{1},...,Y_{s}]",data/mathwriting-2024/train/41deb48e7d68cc02.bin,\mathbb{Q}[Y_{1}.Y_{s}],0.2222222222222222
+\frac{s}{U}\gg1,data/mathwriting-2024/train/3df95ddfd16567bc.bin,\frac{s}{4}>1,0.2222222222222222
+"rad(i\sqrt{r},\mathbb{H})=2\sqrt{r}",data/mathwriting-2024/train/9efbfaeb5962c7e2.bin,"\fracraf(i\sqrt{r},H)=2\sqrt{r}",0.2222222222222222
+a_{i}=e^{\frac{\mu_{i}-\mu_{i}^{\ominus}}{RT}},data/mathwriting-2024/train/ebfb2c79fe6d5b67.bin,a_{i}=e^{\frac{\mu_{i}-\mu_{i}^{\rhoT},0.21875
+A_{T}\cong\bigoplus_{p\in P}A_{T_{p}},data/mathwriting-2024/train/8c3f9a00d8cf25fd.bin,A_{T}\cong}\bigoplus{pP}A_{T_{p},0.21739130434782608
+\iint E\cdot dS=\frac{q_{e}}{\epsilon_{0}},data/mathwriting-2024/train/7e97394834ca64ee.bin,\iint E\cdot dS=\frac{q\epsilon}{\epsilon_{0},0.21739130434782608
+P\hookrightarrow(R_{\ge0})^{f},data/mathwriting-2024/train/2e8ebc8e6a360884.bin,P\hookrightarrow(R\ge0)^{f},0.21428571428571427
+C_{m}=Z_{m}\bullet f,data/mathwriting-2024/train/9ed13bc54a8a58fe.bin,C_{m}=2{m\bullet f,0.21428571428571427
+\mathbb{W}_{n}\rightarrow\underline{O}^{n},data/mathwriting-2024/train/99a04793861f08f5.bin,Wn}\rightarrow\underline{O}^{n},0.21428571428571427
+\oint_{C}f(z)\frac{g^{\prime}(z)}{g(z)}dz,data/mathwriting-2024/train/3e59cfdaa481f980.bin,\oint_{C}f(z)\frac{g(z)}{g(z)z,0.21428571428571427
+\mathbb{W}_{n}\rightarrow\underline{O}^{n},data/mathwriting-2024/train/3a4954ef3513f905.bin,\mathbb{W}{n\rightarrow\underline{O^{n},0.21428571428571427
+K\equiv\bigoplus_{\omega\in\Omega}A_{\omega},data/mathwriting-2024/train/c2abd09809eebc8c.bin,K\equiv_{w\in\Omega}A_{w},0.21428571428571427
+K\equiv\bigoplus_{\omega\in\Omega}A_{\omega},data/mathwriting-2024/train/917b83d3c2a4e97a.bin,K\equiv_{w\in\Omega}A_{w},0.21428571428571427
+\oint_{C}f(z)\frac{g^{\prime}(z)}{g(z)}dz,data/mathwriting-2024/train/67683b3b89858c6f.bin,\ointf(z)\frac{g^{\prime}(z)}{g(z)}dz,0.21428571428571427
+\frac{a-\lambda_{\pm}}{c}=-\frac{b-\lambda_{\mp}}{c},data/mathwriting-2024/train/cef9748ab5883a83.bin,\frac{a-\lambda \pm}{c}=-\frac{b-\lambda \mp}{c},0.21428571428571427
+\Phi=\int E(\hat{e}_{\angle}\cdot dA),data/mathwriting-2024/train/f1685e6ee8cbdf10.bin,\Phi=\int E(\hat{e}L\cdot dA),0.21052631578947367
+"\mathbb{X}=(x_{1},...,x_{N})",data/mathwriting-2024/train/5108a15f09786820.bin,"\langle=(x_{1},.,x_{n})",0.21052631578947367
+"\mathbb{D}(S^{*},\hat{S}_{N})\rightarrow0",data/mathwriting-2024/train/80bb4d5dd379b96b.bin,"D(S^{*},\hat{S}N)\rightarrow0",0.21052631578947367
+0\subsetneq p_{1}\subsetneq\cdot\cdot\cdot\subsetneq p_{m},data/mathwriting-2024/train/d929f0e65eda117c.bin,0\subseteq p_{1}\subsetneq.\subsetneq p_{m},0.21052631578947367
+[\begin{matrix}w^{1}\\ \vdots\\ w^{k}\end{matrix}],data/mathwriting-2024/train/080462c849e4d34e.bin,[\begin{matrix}w^{1}\\ \vdotsw^{k}\end{matrix}],0.21052631578947367
+E=K^{\prime\top}FK,data/mathwriting-2024/train/77f71c23992d2de2.bin,E=K^{\primeT}FK,0.2
+\mathbb{Q}:X\notin\mathbb{N},data/mathwriting-2024/train/ffe8bfe2f599d020.bin,\mathbb{Q}:X\in\mathbb{N},0.2
+y=x^{2}\iff x=\sqrt{y},data/mathwriting-2024/train/fdc1c234b90a63cb.bin,y=x^{2}\iffx=\sqrt{y},0.2
+\bigwedge_{x},data/mathwriting-2024/train/5b373da0b402f612.bin,\bigwedge_{},0.2
+\overline{S_{n}}=a\mathbb{I}\{S_{n}>a\},data/mathwriting-2024/train/8ab30de0be6cdf4d.bin,S_{Sn}=a\mathbb{I}\{S_{n}>a\},0.2
+(p?;a)\cup(\neg p?;b),data/mathwriting-2024/train/0b3f3dd583ca4f3e.bin,(p?;a)\cup(\neg P\}:;b),0.2
+\int\int_{\partial V}\bigcirc D\cdot dA,data/mathwriting-2024/train/2464a265e1c23335.bin,\iint_{\partial V}\cup D\cdot dA,0.2
+(\begin{matrix}13\\ 4\end{matrix})(\begin{matrix}4\\ 2\end{matrix})\div2!,data/mathwriting-2024/train/0b21453aef9f5705.bin,(\begin{matrix}134\end{matrix})(\begin{matrix}42\end{matrix})\div2!,0.2
+f(w)\Vdash^{\prime}p,data/mathwriting-2024/train/059ac88233086bc0.bin,f(w)|\vdash^{\prime}p,0.2
+\int\int_{\partial V}\bigcirc D\cdot dA,data/mathwriting-2024/train/414b7931df69d825.bin,\int_{\partial V}O P\cdot dA,0.2
+\frac{dlnK}{dT}=\frac{{\Delta H_{m}}^{\ominus}}{RT^{2}},data/mathwriting-2024/train/5db68a5982458295.bin,\frac{dlnK}{dT}=\frac{\Delta Hm^{\ominus}{RT^{2},0.19444444444444445
+\sum_{p|n}\frac{1}{p}-\prod_{p|n}\frac{1}{p}\in\mathbb{N},data/mathwriting-2024/train/a6c10fcbd3f768ea.bin,\sum_{p|n}\frac{1}{p}-\prod}\frac{1}{p}\in\mathbb{N}\backslash,0.1935483870967742
+R_{U}\in R_{U}\iff R_{U}\notin R_{U},data/mathwriting-2024/train/bf752d80c86fd965.bin,R_{v}\in R_{U}\iff R_{v}t_{U},0.19230769230769232
+\int\int\int_{\partial V}\bigcirc D\cdot dA,data/mathwriting-2024/train/242ebf8fa8caefff.bin,\iint\int_{\partial V}O D\cdot dA,0.1875
+\omega_{k}\triangleq\frac{k2\pi}{NT},data/mathwriting-2024/train/818caf45dce7cbd3.bin,\omega_{R}\equiv\frac\Delta{k2\pi}{NT},0.1875
+x^{2}=5\Leftrightarrow x=\pm\sqrt{5},data/mathwriting-2024/train/3ad42ec8de81195f.bin,x^{2}=5\iffx=\pm\sqrt{5},0.1875
+"\triangle DEF,\triangle GHI",data/mathwriting-2024/train/08a1550adb7543a2.bin,"\Delta DEF,\Delta GHI",0.18181818181818182
+d^{3}\Pi_{u}\Leftrightarrow a^{3}\Pi_{g},data/mathwriting-2024/train/5f3f1739bfde94dc.bin,d^{3}\Pi_{u\Leftrightarrow a^{3}\Pi g,0.18181818181818182
+\bigvee_{j=1}^{n},data/mathwriting-2024/train/adad15c8e0d8caf6.bin,\prod_{j=1}^{},0.18181818181818182
+{\mathbb{F}_{p}}^{*},data/mathwriting-2024/train/8f8a4ba34a7b7a22.bin,{_{p}^{*},0.18181818181818182
+\sum_{J\supset I}(-1)^{|J\backslash I|}|A_{J}|,data/mathwriting-2024/train/32d4e524a47037a7.bin,\sum_{Jx|}(-1)^{|J|I|}|A_{J}|,0.17857142857142858
+\tilde{\mathbb{P}}[X(T)=V(T)]=1,data/mathwriting-2024/train/d4aaa6d426b6b596.bin,\mathbb{P}[X(T)=V(T)]=1,0.17647058823529413
+\tilde{\mathbb{P}}[X(T)=V(T)]=1,data/mathwriting-2024/train/902e2c33609f43f3.bin,\mathbb{P}[X(T)=V(T)]=1,0.17647058823529413
+p_{\alpha}\longrightarrow-i\hbar\frac{\partial}{\partial\alpha},data/mathwriting-2024/train/bf6673fcf941213e.bin,p_{\alpha}\rightarrowi\hbar\frac{\partial}{\partial\alpha},0.17647058823529413
+\langle E_{n}:n\in\mathbb{N}\rangle,data/mathwriting-2024/train/73ce7ef38561d52e.bin,\langle E_{n}:n\inN\rangle,0.16666666666666666
+\bigwedge^{k}V,data/mathwriting-2024/train/79b3c50c9f277063.bin,\bigwedge^{k}v,0.16666666666666666
+\mathbb{L}_{x^{m}}(L),data/mathwriting-2024/train/e7bb015b70e951f0.bin,\mathbb{I}_{x^{m}(L),0.16666666666666666
+K=\mathbb{Q}(\sqrt[3]{D}),data/mathwriting-2024/train/3a67bfd5a9315a06.bin,K=\mathbb{Q}(\sqrt[3[]\overline{D}),0.16666666666666666
+S\subsetneq\underline{m},data/mathwriting-2024/train/e4bf2996e71c5821.bin,S\subsetneq^{m},0.16666666666666666
+!(A\&B)\equiv!A\otimes!B,data/mathwriting-2024/train/3ac758854db68d65.bin,!(A\alphaB)\equiv!A\otimes!B,0.16666666666666666
+\mu=\mathbb{E}[X],data/mathwriting-2024/train/6255e4007404a688.bin,\mu=\mathbb{E}[x],0.16666666666666666
+\varphi_{2}=\forall_{y}\bigvee_{i}(x_{i}=y),data/mathwriting-2024/train/2c0cfd561bd6ed3c.bin,\varphi_{2}=\forall y\vee_{i}(x_{i}=y),0.16
+"\mathbb{K}\langle x_{1},...,x_{n}\rangle",data/mathwriting-2024/train/d80bdde850ed2ca0.bin,"K\langle x_{1},.,x_{n}\rangle",0.15789473684210525
+X\ni x\mapsto|\phi_{n}(x)|^{2},data/mathwriting-2024/train/82fe55ebd9cebc6c.bin,X\nix\mapsto|\phi_{n}(x)|^{2},0.15789473684210525
+\hat{r}\triangleq y-X\hat{\beta}=K\hat{\gamma},data/mathwriting-2024/train/1619af2b37989ea0.bin,\hat{r}\Delta= y-X\hat{\beta}=k\hat{\gamma},0.15789473684210525
+"\bigvee_{j=1}^{9}p(i,j,n)",data/mathwriting-2024/train/450ffa41219ff483.bin,"\sum_{j=1}^{}P(i,j,n)",0.15789473684210525
+\mathbb{S}^{n}(1/\sqrt{\kappa}),data/mathwriting-2024/train/138aa3532c89b0f0.bin,S^{n}(1/\sqrt{k}),0.15384615384615385
+"\lambda_{1},\lambda_{2}\in\mathbb{D}",data/mathwriting-2024/train/3c7d7ff6ece8c942.bin,"\lambda_{1},\lambda_{2}\inD",0.15384615384615385
+\{|a\rangle|a\in\mathbb{F}_{d}\},data/mathwriting-2024/train/223f4bfb1b7280c9.bin,\{|a\rangle|a\inF_{d}\},0.15384615384615385
+R_{U}\in R_{U}\iff R_{U}\notin R_{U},data/mathwriting-2024/train/ac2c54e2dd684cd2.bin,R_{U}\in P_{U}\iff P_{U}\notin P_{V},0.15384615384615385
+I_{x}=\iint_{R}y^{2}dxdy,data/mathwriting-2024/train/1e1cedc443cad6ad.bin,I_{x=\int\iint{R}y^{2}dxdy,0.15
+a=\tilde{x}\iff f(a)=f(\tilde{x}),data/mathwriting-2024/train/717d4a59ce0970eb.bin,a=\tilde{X}\iff f(a)=\tildef(\tilde{X}),0.15
+a^{2^{r}d}\not\equiv-1(modn),data/mathwriting-2024/train/da96e870be064853.bin,a^{2rd}\not\equiv-1(modn),0.15
+D_{S}(D_{S}-x)=\triangle_{S},data/mathwriting-2024/train/cf19156553289f06.bin,D_{S}(D_{S}-x)=\Delta_ S,0.15
+\overline{S_{n}}=a\mathbb{I}\{S_{n}>a\},data/mathwriting-2024/train/16b72bf6d9c8b14a.bin,S_{S_{n}=a\mathbb{I}\{S_{n}>a\},0.15
+\overline{S_{n}}=a\mathbb{I}\{S_{n}>a\},data/mathwriting-2024/train/78636bedaa4dd378.bin,S_{n}=a\mathbb{I}\{S_{n}>a\},0.15
+a=\tilde{x}\iff f(a)=f(\tilde{x}),data/mathwriting-2024/train/76b6886938f27d21.bin,a=\tilde{x}\iff\rangle f(e)=f(\tilde{x),0.15
+\mathbb{K}=\mathbb{I}-\sqrt{g^{-1}f},data/mathwriting-2024/train/d867a921d4d05eaf.bin,K=1-\sqrt{g^{-1}f},0.14285714285714285
+"\sigma>0,\sigma\notin\mathbb{N}",data/mathwriting-2024/train/ce58285b7ea25d85.bin,"\sigma>0,\delta\notin\mathbb{N}",0.14285714285714285
+\mathbb{P}(x\in X),data/mathwriting-2024/train/05383b45de67f170.bin,P(x\in X),0.14285714285714285
+f^{\prime}(r_{k})\not\equiv0(modp),data/mathwriting-2024/train/4b2c9cdada0491f5.bin,f^{\prime}(v_{k})\equiv0(mop),0.14285714285714285
+W\triangleq2\sqrt{V},data/mathwriting-2024/train/8302917715d5d28b.bin,W\equiv2\sqrt{V},0.14285714285714285
+x\in L\Leftrightarrow\exists y\in\Sigma^{*},data/mathwriting-2024/train/6810c193ac97592a.bin,x\in L\iff\exists y}\in\Sigma^{*},0.14285714285714285
+\mathbb{K}=\mathbb{I}-\sqrt{g^{-1}f},data/mathwriting-2024/train/0c4c3df0353e1737.bin,K=I-\sqrt{g^{-1}f},0.14285714285714285
+W\triangleq2\sqrt{V},data/mathwriting-2024/train/26966da74f014ad5.bin,W\equiv2\sqrt{V},0.14285714285714285
+m_{e}(f)\in\mathbb{F}_{p},data/mathwriting-2024/train/b5d35e32a410bab7.bin,m_{e}(f)\in F_{p},0.14285714285714285
+(1)\Leftrightarrow(5),data/mathwriting-2024/train/888c201b5c01b055.bin,(1)(5),0.14285714285714285
+\iint_{D}|\vec{r}_{u}\times\vec{r}_{v}|dudv,data/mathwriting-2024/train/d14fa5144219900f.bin,\int_{D}|{r_{u}\times\vec{r}_{v|dudv,0.14285714285714285
+p_{\mu}\leftrightarrow-\frac{\partial S}{\partial x^{\mu}},data/mathwriting-2024/train/0d1cb316e2e63c3f.bin,p_{u}\leftrightarrow-\frac{\partial S}{\partial x^{v},0.13636363636363635
+p_{\mu}\leftrightarrow-\frac{\partial S}{\partial x^{\mu}},data/mathwriting-2024/train/c948210e3b4790b6.bin,P_{\mu}-\frac{\partial S}{\partial x^{\mu},0.13636363636363635
+p_{\mu}\leftrightarrow-\frac{\partial S}{\partial x^{\mu}},data/mathwriting-2024/train/d23a99335460ff90.bin,p_{\mu}\mapsto-\frac{\partial S}{\partial x^{\nu},0.13636363636363635
+"Aut(\overline{\mathbb{F}_{p}},f)",data/mathwriting-2024/train/1cbf4d9cff9c227f.bin,"Aut(\overline{F_{p},f)",0.13333333333333333
+n\in X\Leftrightarrow N\models\phi(\underline{n}),data/mathwriting-2024/train/e0c15bd18e0808ba.bin,n\in X\iff N\models\phi(\underline{n),0.13333333333333333
+p_{i}=\mathbb{E}[\frac{Y_{i}}{n_{i}}|X_{i}],data/mathwriting-2024/train/6f47a072493725a3.bin,p_{i}=E[\frac{X_{i}{n_{i}|X_{i}],0.13333333333333333
+p_{0}\subsetneq p_{1}\subsetneq...\subsetneq p_{n},data/mathwriting-2024/train/3438410466d715d9.bin,p_{0}\subsetneq p_{1}\subsetneq.\subsetneq P_{n},0.13043478260869565
+p_{0}\subsetneq p_{1}\subsetneq...\subsetneq p_{n},data/mathwriting-2024/train/252afaeb40e1403b.bin,p_{0}\subsetneq p_{1}\subsetneq\cdot\subsetneq p_{n},0.13043478260869565
+\Sigma_{n}^{0}\cup\Pi_{n}^{0}\subsetneq\Delta_{n+1}^{0},data/mathwriting-2024/train/89024a6db0c1fe1e.bin,\Sigma_{n}^{0}\cup\Pi_{n}^{0}\subsetneq\Delta_{n}^{0+1},0.12903225806451613
+\mathbb{E}[M_{\tau}],data/mathwriting-2024/train/143522de6a6e1dcd.bin,\mathbb{E}[M_{r}],0.125
+U^{\prime\prime}:=\bigcup_{a\in A_{0}}U_{a}^{\prime}\supset A,data/mathwriting-2024/train/9daac1a9b56bc69d.bin,U^{\prime}:=\bigcup_{a\in A_{0}U{a}^{\prime}> A,0.125
+A\rightarrow B/C\_D,data/mathwriting-2024/train/e8584a0651e76606.bin,A\rightarrow B|C\_D,0.125
+M^{-}\hookrightarrow W,data/mathwriting-2024/train/ef7ee1d1423bd017.bin,M^{-}\rightarrow W,0.125
+"W^{1,p}(\Omega)\hookrightarrow L^{p^{*}}(\Omega)",data/mathwriting-2024/train/56a439cee3ca31d7.bin,"W^{1},{p}(\Omega)\hookrightarrow L^{p^{*}(\Omega)",0.125
+"H^{q}(X,\bigwedge^{p}\Omega_{X}|_{Y})",data/mathwriting-2024/train/29927fec6ed88aba.bin,"H^{q}(X,\Lambda^{p}\Omega_{X}|Y})",0.125
+\bigwedge_{W\in\Sigma^{\prime}}W=\bigcap_{W\in\Sigma^{\prime}}W,data/mathwriting-2024/train/fdc3d1392d205c1a.bin,\bigcap_{W\in\Sigma^{\prime}W=\bigcap_{W\in\Sigma^{\prime}W,0.12
+[T_{A}^{1}]\longrightarrow^{*}T_{B}^{2},data/mathwriting-2024/train/bd17d339d094f489.bin,[T_A}^{1}]\rightarrow {*}T_{B}^{2},0.12
+\varphi_{2}=\forall_{y}\bigvee_{i}(x_{i}=y),data/mathwriting-2024/train/5d66c332eb1c19eb.bin,\varphi_{2}=\forall_g}\vee_{i}(x_{i}=y),0.12
+A(S)=\bigvee_{i\in S}x_{i},data/mathwriting-2024/train/6c32f6c6c7a24116.bin,A(S)=\bigcup_{i\in S}x_{i,0.1111111111111111
+"b\in\mathbb{B},x,y\in\mathbb{R}",data/mathwriting-2024/train/e1ba1544822bf798.bin,"b\in\mathbb{R},x,y\in\mathbb{R}",0.1111111111111111
+MN/M\triangleleft G/M,data/mathwriting-2024/train/6ebc07d00639b3a7.bin,MN/M\le G/M,0.1111111111111111
+[\begin{matrix}w^{1}\\ \vdots\\ w^{k}\end{matrix}],data/mathwriting-2024/train/bb9045a342fb0c6a.bin,[\begin{matrix}w^{n}\\ \\ w^{k}\end{matrix}],0.10526315789473684
+\{x_{i}\leftrightarrow{x_{i}}^{\prime}\},data/mathwriting-2024/train/511c158f95a92085.bin,\{x_{i}\leftrightarrow x_{i}^{\prime}\},0.10526315789473684
+"\mathbb{K}\langle x_{1},...,x_{n}\rangle",data/mathwriting-2024/train/b364f67cf66b0326.bin,"\mathbb{K}\langle x_{1},.,x_{n}\rangle",0.10526315789473684
+"\mathbb{K}\langle x_{1},...,x_{n}\rangle",data/mathwriting-2024/train/e29ec081dd388e25.bin,"\mathbb{K}\langle x_{1},.,x_{n}\rangle",0.10526315789473684
+[\begin{matrix}w^{1}\\ \vdots\\ w^{k}\end{matrix}],data/mathwriting-2024/train/bd62066711ba3865.bin,[\begin{matrix}w_{1}\\ \vdots\\ w_{k}\end{matrix}],0.10526315789473684
+14\frac{3}{4}\div13\frac{1}{2}=\frac{59}{54},data/mathwriting-2024/train/8cbae6728d0feece.bin,14\frac{3}{4}\cdot/.13\frac{1}{2}=\frac{59}{54},0.10344827586206896
+ta:S\rightarrow\mathbb{T}^{\infty},data/mathwriting-2024/train/2cc813afd3508e3f.bin,ta:S\rightarrow\pi^{\infty},0.1
+Q(\sqrt{2})\supseteq Q,data/mathwriting-2024/train/04a855ef776363c2.bin,Q(\sqrt{2})\ge Q,0.1
+ta:S\rightarrow\mathbb{T}^{\infty},data/mathwriting-2024/train/f98223cc4cd4b8d8.bin,ta:S\rightarrow\pi^{\infty},0.1
+i_{Q}:Q\hookrightarrow E,data/mathwriting-2024/train/01650d074915628e.bin,i_{Q}:QG E,0.1
+b\triangleleft a=b^{a},data/mathwriting-2024/train/670559c2691e0bc3.bin,b\Delta a=b^{a},0.1
+(\frac{11}{8}\div\frac{48}{35}=\frac{385}{384}),data/mathwriting-2024/train/f817b8c68afedd39.bin,(\frac{1}{8}\frac{48}{35}=\frac{385}{384},0.09375
+U^{\prime\prime}:=\bigcup_{a\in A_{0}}U_{a}^{\prime}\supset A,data/mathwriting-2024/train/fb5369bed2a19497.bin,U^{\prime}:=\bigcup_{a\in A_{0}U_{a}^{\prime}> A,0.09375
+\mathbb{Z}_{q}^{n}\times\mathbb{T},data/mathwriting-2024/train/e1c0ab3374ef093e.bin,\mathbb{Z}_{q^{n}\times\mathbb{T},0.09090909090909091
+(\frac{15}{14}\div\frac{16}{15}=\frac{225}{224}),data/mathwriting-2024/train/38879eebb362d4ab.bin,(\frac{15}{14}+\frac{16}{15}=\frac{25}{24}),0.09090909090909091
+K\supseteq R_{+}^{d},data/mathwriting-2024/train/3d1131459d1db154.bin,K\ge R_{+}^{d},0.08333333333333333
+\mathbb{X}=\sqrt{g^{-1}f},data/mathwriting-2024/train/60e98813b1798eb0.bin,X=\sqrt{g^{-1}f},0.08333333333333333
+\ni_{X}\subseteq PX\times X,data/mathwriting-2024/train/6bff3201a42c2aa1.bin,\exists_{X}\subseteq PX\times X,0.08333333333333333
+\mathbb{S}^{n}(1/\sqrt{\kappa}),data/mathwriting-2024/train/c1082b7e95adc13a.bin,s^{n}(1/\sqrt{\kappa}),0.07692307692307693
+\mathbb{S}^{n}(1/\sqrt{\kappa}),data/mathwriting-2024/train/2a0dc8e88f8691dc.bin,S^{n}(1/\sqrt{\kappa}),0.07692307692307693
+\mathbb{S}^{n}(1/\sqrt{\kappa}),data/mathwriting-2024/train/37c8c81c186f4977.bin,\mathbb{S}^{n}(1/\sqrt{k}),0.07692307692307693
+(P\rightarrow Q)\&(R\rightarrow S),data/mathwriting-2024/train/1750eded8d2b2ca8.bin,(P\rightarrow Q)\propto(R\rightarrow S),0.07692307692307693
+2CO\rightleftharpoons CO_{2}+C,data/mathwriting-2024/train/9e251a97595259b3.bin,2COz CO_{2}+C,0.07692307692307693
+P\hookrightarrow(R_{\ge0})^{f},data/mathwriting-2024/train/2694b0268a348326.bin,p\hookrightarrow(R_{\ge0})^{f},0.07142857142857142
+(\forall x\ni\phi(x))\tau(x),data/mathwriting-2024/train/ee37b99925d12bdd.bin,(\forall x\ni\phi(x)\tau(x),0.07142857142857142
+(\forall x\ni\phi(x))\tau(x),data/mathwriting-2024/train/8279f55869f471a3.bin,(\forall x\ni\phi(x)\tau(x),0.07142857142857142
++\neg F^{n}\leftrightarrow\neg+F^{n},data/mathwriting-2024/train/764da3d54229ec54.bin,+\neg F^{}\leftrightarrow\neg+F^{n},0.0625
+k_{1}\not\equiv_{p}k_{2},data/mathwriting-2024/train/9df8725887c6c421.bin,k_{1}\equiv_{p}k_{2},0.0625
+C+2H_{2}\rightleftharpoons CH_{4},data/mathwriting-2024/train/7ff8bd279ea2d9a8.bin,C+2H_{2}\ge CH_{4},0.0625
+"[0,1]\ni t\mapsto(t,f(t))",data/mathwriting-2024/train/962cdc87601125a6.bin,"[0,1]\ni t\mapsto(t,f(t)",0.058823529411764705
+M_{1}=\frac{1}{2m}M\supset M,data/mathwriting-2024/train/a72fb6f2a9d4b494.bin,M_{1}=\frac{1}{2m}M> M,0.05555555555555555
+"rad(i\sqrt{r},\mathbb{H})=2\sqrt{r}",data/mathwriting-2024/train/cc752db1bab7889c.bin,"rad(i\sqrt{r},H)=2\sqrt{r}",0.05555555555555555
+"rad(i\sqrt{r},\mathbb{H})=2\sqrt{r}",data/mathwriting-2024/train/e4a3cb61f8f7274d.bin,"rad(i\sqrt{r},H)=2\sqrt{r}",0.05555555555555555
+[\begin{matrix}w^{1}\\ \vdots\\ w^{k}\end{matrix}],data/mathwriting-2024/train/1be0bbcd37ef583e.bin,[\begin{matrix}w^{1}\\ \vdots\\ w^{n}\end{matrix}],0.05263157894736842
+[\begin{matrix}w^{1}\\ \vdots\\ w^{k}\end{matrix}],data/mathwriting-2024/train/37e7a1eac587c39c.bin,[\begin{matrix}w^{1}\\ \vdots w^{k}\end{matrix}],0.05263157894736842
+C_{n}=I_{n}-\frac{1}{n}\mathbb{O},data/mathwriting-2024/train/a2ccefc6f5f432e9.bin,C_{n}=I_{n}-\frac{1}{n}\mathbb{Q},0.05
+C_{n}=I_{n}-\frac{1}{n}\mathbb{O},data/mathwriting-2024/train/f132fecf5ef4854a.bin,C_{n}=I_{n}-\frac{1}{n}0,0.05
+2X^{-}\rightleftharpoons X_{2}+2e^{-},data/mathwriting-2024/train/cf6f082d3dc9ee47.bin,2X^{-}\mapsto X_{2}+2e^{-},0.05
+f^{\prime}(r_{k})\not\equiv0(modp),data/mathwriting-2024/train/71dc05f05f073b2c.bin,f^{\prime}(r_{k})\equiv0(modp),0.047619047619047616
+\tilde{\varphi}:\mathbb{S}^{\lambda}E\rightarrow M,data/mathwriting-2024/train/cd7190301ee97ca1.bin,\tilde{\varphi}:\mathbb{S}^{\lambda}E\rightarrow M,0.0
+A\rightarrow B/C\_D,data/mathwriting-2024/train/0065651083557d67.bin,A\rightarrow B/C\_D,0.0
+\mathbb{U},data/mathwriting-2024/train/8cf2b619f76ba33b.bin,\mathbb{U},0.0
+\mathbb{A},data/mathwriting-2024/train/7b0c2d530912cd0a.bin,\mathbb{A},0.0
+\mathbb{T},data/mathwriting-2024/train/5fbf4246a66d977c.bin,\mathbb{T},0.0
+A+M\rightleftharpoons A^{*}+M,data/mathwriting-2024/train/732cde0d6ae9da7a.bin,A+M\rightleftharpoons A^{*}+M,0.0
+\mathbb{B},data/mathwriting-2024/train/e7c5337311cfbe01.bin,\mathbb{B},0.0
+\mathbb{T},data/mathwriting-2024/train/1fc0a9d1c27ea668.bin,\mathbb{T},0.0
+\mathbb{Y},data/mathwriting-2024/train/1b9f01f5d1d7ee05.bin,\mathbb{Y},0.0
+\mathbb{O},data/mathwriting-2024/train/712c8dd3d7537de6.bin,\mathbb{O},0.0
+\mathbb{Y},data/mathwriting-2024/train/0e2a16b51f6e1b50.bin,\mathbb{Y},0.0
+A\rightarrow B/C\_D,data/mathwriting-2024/train/08fb7779d8c89c32.bin,A\rightarrow B/C\_D,0.0
+\mathbb{Y},data/mathwriting-2024/train/d698b6444a70248e.bin,\mathbb{Y},0.0
+\mathbb{Y},data/mathwriting-2024/train/3fef10e17e759814.bin,\mathbb{Y},0.0
+\mathbb{X},data/mathwriting-2024/train/44190c658efbe6d8.bin,\mathbb{X},0.0
+\mathbb{A},data/mathwriting-2024/train/4c68c3e4936e9d39.bin,\mathbb{A},0.0
+\mathbb{B},data/mathwriting-2024/train/6362f1647742ecb2.bin,\mathbb{B},0.0
+\mathbb{X},data/mathwriting-2024/train/3bf1cc7ed72ca090.bin,\mathbb{X},0.0
+\mathbb{A},data/mathwriting-2024/train/b6305806cabca83f.bin,\mathbb{A},0.0
+\mathbb{H},data/mathwriting-2024/train/1b82a8ad50e35d09.bin,\mathbb{H},0.0
+\mathbb{G},data/mathwriting-2024/train/a50d4da912cfa293.bin,\mathbb{G},0.0
+\mathbb{V},data/mathwriting-2024/train/1f6b603269bfb5cd.bin,\mathbb{V},0.0
+\mathbb{M},data/mathwriting-2024/train/bbcbff91d2b27c66.bin,\mathbb{M},0.0
+\mathbb{B},data/mathwriting-2024/train/d9fc6de6fbdf772f.bin,\mathbb{B},0.0
+\mathbb{A},data/mathwriting-2024/train/8fc9bd49b3df567f.bin,\mathbb{A},0.0
+\mathbb{J},data/mathwriting-2024/train/a07db905734f751b.bin,\mathbb{J},0.0
+\mathbb{U},data/mathwriting-2024/train/8d87454009f5a9e7.bin,\mathbb{U},0.0
+\mathbb{J},data/mathwriting-2024/train/ee39c785c42c1c71.bin,\mathbb{J},0.0
+\mathbb{L},data/mathwriting-2024/train/a4d441bcae359e57.bin,\mathbb{L},0.0
+\mathbb{M},data/mathwriting-2024/train/9d9def015fa32c54.bin,\mathbb{M},0.0
+\mathbb{G},data/mathwriting-2024/train/d9ce6aa94d37ff40.bin,\mathbb{G},0.0
+A\rightarrow B/C\_D,data/mathwriting-2024/train/3ad63d803bd7fcac.bin,A\rightarrow B/C\_D,0.0
+Ag^{+}+e^{-}\rightleftharpoons Ag(s),data/mathwriting-2024/train/a8245e8992e241b7.bin,Ag^{+}+e^{-}\rightleftharpoons Ag(s),0.0
+\mathbb{L},data/mathwriting-2024/train/769d6d630cd74f6b.bin,\mathbb{L},0.0
+\mathbb{M},data/mathwriting-2024/train/3a161a128906d022.bin,\mathbb{M},0.0
+\mathbb{B},data/mathwriting-2024/train/cf32d93a29f1bd19.bin,\mathbb{B},0.0
+\mathbb{J},data/mathwriting-2024/train/237d3e4e01666969.bin,\mathbb{J},0.0
+\mathbb{U},data/mathwriting-2024/train/9d3e8372ee8d306e.bin,\mathbb{U},0.0
+A\rightarrow B/C\_D,data/mathwriting-2024/train/c2c5bdebd9aedbe1.bin,A\rightarrow B/C\_D,0.0
+\mathbb{G},data/mathwriting-2024/train/d7e93ea70c78b968.bin,\mathbb{G},0.0
+\not\equiv,data/mathwriting-2024/train/79e11e4491b31899.bin,\not\equiv,0.0
+\mathbb{G},data/mathwriting-2024/train/c59d12f507f927a7.bin,\mathbb{G},0.0
+\mathbb{U},data/mathwriting-2024/train/5147969f3c52ad1b.bin,\mathbb{U},0.0
+\mathbb{V},data/mathwriting-2024/train/193da10add1bb50e.bin,\mathbb{V},0.0
+\mathbb{U},data/mathwriting-2024/train/6a0c259f1fb0559b.bin,\mathbb{U},0.0
+\mathbb{L},data/mathwriting-2024/train/1992357488146625.bin,\mathbb{L},0.0
+\mathbb{G},data/mathwriting-2024/train/3564ce3e8850285d.bin,\mathbb{G},0.0
+\mathbb{L},data/mathwriting-2024/train/e7e1eb1535fa9891.bin,\mathbb{L},0.0
+\mathbb{V},data/mathwriting-2024/train/a6a412d552630897.bin,\mathbb{V},0.0
+\mathbb{V},data/mathwriting-2024/train/66ba3497a39e92b2.bin,\mathbb{V},0.0
+\mathbb{J},data/mathwriting-2024/train/b6de4593e4a906c6.bin,\mathbb{J},0.0
+\mathbb{Y},data/mathwriting-2024/train/e986c4d6c39e94a4.bin,\mathbb{Y},0.0
+\mathbb{M},data/mathwriting-2024/train/c72f2c3857cb4dd3.bin,\mathbb{M},0.0
+\mathbb{M},data/mathwriting-2024/train/6364e66c7fbd9385.bin,\mathbb{M},0.0
+\mathbb{J},data/mathwriting-2024/train/dd7b156af5c83ec0.bin,\mathbb{J},0.0
+\mathbb{V},data/mathwriting-2024/train/051d4db1b09c1d5c.bin,\mathbb{V},0.0
+a^{ec}\supseteq a,data/mathwriting-2024/train/a9e1de8ee86eacdd.bin,a^{ec}\supseteq a,0.0
+a^{ec}\supseteq a,data/mathwriting-2024/train/0e62997b5a82268f.bin,a^{ec}\supseteq a,0.0
+a^{ec}\supseteq a,data/mathwriting-2024/train/b259bbe803142313.bin,a^{ec}\supseteq a,0.0
